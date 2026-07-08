@@ -1,0 +1,379 @@
+=========================================================
+AUDIENCE RULES
+
+Meta Decision Engine
+
+Version 1.0
+
+=========================================================
+
+AMAÇ
+
+Bu belge MetaAgent'in hedef kitle seçim,
+analiz ve optimizasyon kurallarını içerir.
+
+MetaAgent;
+
+• Hedef kitle oluşturur
+
+• Hedef kitleyi analiz eder
+
+• Audience Fatigue tespit eder
+
+• Audience Expansion önerir
+
+• Yeni Audience üretir
+
+=========================================================
+
+META'NIN FELSEFESİ
+
+Meta'nın amacı;
+
+ürünle ilgilenme ihtimali en yüksek kişileri bulmaktır.
+
+Doğru hedef kitle;
+
+daha düşük CPA
+
+daha yüksek ROAS
+
+ve daha kaliteli Purchase üretir.
+
+=========================================================
+
+AUDIENCE TÜRLERİ
+
+1 Broad Audience
+
+2 Interest Audience
+
+3 Lookalike Audience
+
+4 Custom Audience
+
+5 Website Visitors
+
+6 Customer List
+
+7 Instagram Engagers
+
+8 Facebook Engagers
+
+9 Video Viewers
+
+10 Add To Cart
+
+11 Initiate Checkout
+
+12 Purchasers
+
+==================================================================================================================
+
+BROAD AUDIENCE
+
+=========================================================
+
+Tanım
+
+Meta'nın mümkün olduğunca geniş hedef kitleye
+ulaşmasını sağlayan yapı.
+
+Avantajları
+
+• Daha fazla öğrenme
+
+• Daha fazla ölçek
+
+• Daha düşük CPM potansiyeli
+
+• Daha güçlü AI optimizasyonu
+
+Riskleri
+
+• Yeni hesaplarda zayıf sonuç verebilir.
+
+• Pixel zayıfsa yanlış kişilere gösterilebilir.
+
+AI Kuralı
+
+IF
+
+Pixel güçlü
+
+AND
+
+Purchase yüksek
+
+THEN
+
+Broad öner.
+
+==================================================================================================================
+
+INTEREST AUDIENCE
+
+=========================================================
+
+Tanım
+
+İlgi alanlarına göre hedefleme.
+
+Örnek
+
+Sağlıklı Yaşam
+
+Fitness
+
+Organik Ürünler
+
+Cilt Bakımı
+
+Ev Dekorasyonu
+
+Kahve
+
+Evcil Hayvan
+
+AI Kuralı
+
+Yeni ürünlerde
+
+Interest Test
+
+öner.
+
+==================================================================================================================
+
+LOOKALIKE AUDIENCE
+
+=========================================================
+
+Kaynaklar
+
+Purchase
+
+Add To Cart
+
+Lead
+
+Customer List
+
+Website Visitors
+
+Video Views
+
+Önerilen
+
+1%
+
+2%
+
+3%
+
+5%
+
+AI Kuralı
+
+En kaliteli kaynak
+
+Purchase Audience'dır.
+
+==================================================================================================================
+
+CUSTOM AUDIENCE
+
+=========================================================
+
+Kaynaklar
+
+Website
+
+Instagram
+
+Facebook
+
+WhatsApp
+
+CRM
+
+Customer List
+
+Remarketing
+
+AI Kuralı
+
+Satış kampanyalarında
+Custom Audience mutlaka değerlendirilmelidir.
+
+==================================================================================================================
+
+AUDIENCE FATIGUE
+
+=========================================================
+
+Belirtiler
+
+Frequency yükseliyor
+
+CTR düşüyor
+
+CPA yükseliyor
+
+ROAS düşüyor
+
+AI Kuralı
+
+Audience yenile.
+
+veya
+
+Horizontal Scaling öner.
+
+==================================================================================================================
+
+AUDIENCE OVERLAP
+
+=========================================================
+
+Belirtiler
+
+Kampanyalar birbirini tüketiyor.
+
+CPM yükseliyor.
+
+Delivery düşüyor.
+
+Çözüm
+
+Audience birleştir.
+
+veya
+
+Audience ayrıştır.
+
+==================================================================================================================
+
+AUDIENCE EXPANSION
+
+=========================================================
+
+Ne zaman?
+
+ROAS stabil
+
+Frequency artıyor
+
+Audience doygun
+
+Çözüm
+
+Lookalike
+
+↓
+
+Broad
+
+↓
+
+Advantage+
+
+==================================================================================================================
+
+AI DECISION ENGINE
+
+=========================================================
+
+Audience Analizi
+
+↓
+
+Frequency
+
+↓
+
+CTR
+
+↓
+
+CPA
+
+↓
+
+ROAS
+
+↓
+
+Audience Size
+
+↓
+
+Overlap
+
+↓
+
+Creative Match
+
+↓
+
+Karar
+
+==================================================================================================================
+
+CHECKLIST
+
+=========================================================
+
+□ Audience çok dar mı?
+
+□ Audience çok geniş mi?
+
+□ Frequency normal mi?
+
+□ Overlap var mı?
+
+□ Lookalike kaliteli mi?
+
+□ Pixel güçlü mü?
+
+□ Purchase yeterli mi?
+
+□ Remarketing aktif mi?
+
+==================================================================================================================
+
+OLIVOS STANDARDI
+
+=========================================================
+
+Test sırası
+
+Interest
+
+↓
+
+Broad
+
+↓
+
+Lookalike
+
+↓
+
+Advantage+
+
+↓
+
+Remarketing
+
+MetaAgent her Audience değişikliğinde
+
+en az 3 gün
+
+veya
+
+anlamlı veri oluşana kadar
+
+beklemeyi önerir.
+
+=========================================================

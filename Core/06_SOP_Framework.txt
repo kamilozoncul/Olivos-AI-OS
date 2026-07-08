@@ -1,0 +1,245 @@
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-CORE-006
+
+Document Name:
+SOP Framework
+
+Version:
+2.0
+
+Owner:
+Olivos AI Operating System
+
+Status:
+Production
+
+Category:
+Core
+
+Dependencies:
+
+01_AI_Principles.md
+02_Decision_Framework.md
+03_KPI_Definitions.md
+04_Output_Standards.md
+05_Risk_Framework.md
+
+Used By:
+
+All AI Agents
+
+==================================================================================================================
+PURPOSE
+=========================================================
+
+Bu belge
+
+Olivos AI Operating System içerisindeki
+
+tüm SOP'lerin
+
+ortak standardını belirler.
+
+SOP'ler
+
+AI'ın
+
+aynı işi
+
+her zaman
+
+aynı kaliteyle
+
+yapmasını sağlar.
+
+==================================================================================================================
+SOP PHILOSOPHY
+=========================================================
+
+SOP
+
+tecrübenin
+
+dokümante edilmiş halidir.
+
+AI
+
+kişisel yorumlarla
+
+değil
+
+SOP'lere göre hareket eder.
+
+==================================================================================================================
+STANDARD SOP
+
+1 Amaç
+
+2 Kapsam
+
+3 Gerekli Veriler
+
+4 Ön Koşullar
+
+5 Adımlar
+
+6 Kontrol Noktaları
+
+7 Beklenen Çıktılar
+
+8 Riskler
+
+9 Kalite Kontrol
+
+10 Tamamlanma Kriteri
+
+==================================================================================================================
+EXECUTION RULES
+
+AI
+
+hiçbir SOP adımını
+
+atlamaz.
+
+Her adım
+
+tamamlandı
+
+olarak işaretlenmeden
+
+bir sonraki adıma geçmez.
+
+==================================================================================================================
+SOP PRIORITY
+
+S0
+
+Emergency
+
+----------------------------
+
+S1
+
+Critical
+
+----------------------------
+
+S2
+
+Daily
+
+----------------------------
+
+S3
+
+Weekly
+
+----------------------------
+
+S4
+
+Monthly
+
+==================================================================================================================
+SOP TEMPLATE
+
+SOP ID
+
+SOP Adı
+
+Amaç
+
+Sorumlu AI
+
+Gerekli Veriler
+
+Adımlar
+
+Kontroller
+
+Riskler
+
+Beklenen Sonuç
+
+Tamamlanma Süresi
+
+Kalite Kontrol
+
+==================================================================================================================
+AI EXECUTION FLOW
+
+Problem
+
+↓
+
+İlgili SOP'yi Bul
+
+↓
+
+Ön Koşulları Kontrol Et
+
+↓
+
+Adımları Uygula
+
+↓
+
+Sonucu Ölç
+
+↓
+
+Kalite Kontrol Yap
+
+↓
+
+Raporla
+
+==================================================================================================================
+QUALITY CONTROL
+
+Her SOP sonunda
+
+AI şu soruları cevaplar.
+
+□ Amaç gerçekleşti mi?
+
+□ Veri doğru mu?
+
+□ Risk kaldı mı?
+
+□ Sonuç ölçüldü mü?
+
+□ Rapor oluşturuldu mu?
+
+==================================================================================================================
+AI GOLDEN RULE
+
+AI
+
+aynı problemde
+
+aynı SOP'yi uygular.
+
+SOP dışına çıkması gerekiyorsa
+
+gerekçesini açıklar.
+
+==================================================================================================================
+CHECKLIST
+
+□ SOP seçildi mi?
+
+□ Ön koşullar tamam mı?
+
+□ Tüm adımlar uygulandı mı?
+
+□ Kalite kontrol yapıldı mı?
+
+□ Sonuç raporlandı mı?
+
+=========================================================

@@ -1,0 +1,307 @@
+# MetaAgent KPI Rules
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-META-002
+
+Document Name:
+KPI Rules
+
+Version:
+1.0
+
+Status:
+Production
+
+Category:
+Agent Rules
+
+Owner:
+Olivos AI Operating System
+
+Dependencies:
+
+- Core/03_KPI_Definitions.md
+- Core/05_Risk_Framework.md
+- Core/07_Prompt_Standards.md
+
+=========================================================
+
+# PURPOSE
+
+Bu belge MetaAgent'in KPI'ları nasıl değerlendireceğini tanımlar.
+
+Hiçbir KPI tek başına yorumlanmaz.
+
+Tüm KPI'lar birlikte değerlendirilir.
+
+=========================================================
+
+# KPI EVALUATION PRINCIPLES
+
+Her KPI aşağıdaki sırayla analiz edilir:
+
+1. Mevcut Değer
+2. Hedef Değer
+3. Önceki Dönem
+4. Trend
+5. Risk
+6. Aksiyon
+
+==================================================================================================================
+ROAS
+
+(Return On Ad Spend)
+
+=========================================================
+
+Amaç
+
+Reklam yatırımının geri dönüşünü ölçmek.
+
+Temel Kural
+
+ROAS hiçbir zaman tek başına başarı göstergesi değildir.
+
+Bir kampanya yüksek ROAS'a sahip olabilir
+ancak düşük satış hacmi nedeniyle ölçeklenemez.
+
+Kontrol Edilecek KPI'lar
+
+- Purchase
+- CPA
+- Spend
+- Revenue
+- Conversion Rate
+
+Karar Kuralları
+
+ROAS ↑
+Purchase ↑
+
+→ Ölçekleme adayı
+
+-----------------------------
+
+ROAS ↑
+Purchase ↓
+
+→ Düşük hacim
+
+-----------------------------
+
+ROAS ↓
+CPA ↑
+
+→ İnceleme gerekir
+
+-----------------------------
+
+ROAS ↓
+Frequency ↑
+
+→ Creative yorgunluğu ihtimali
+
+==================================================================================================================
+CPA
+
+(Cost Per Acquisition)
+
+=========================================================
+
+Amaç
+
+Bir satışın maliyetini ölçmek.
+
+Temel Kural
+
+CPA ürün kâr marjı ile birlikte değerlendirilmelidir.
+
+Kontrol Edilecek KPI'lar
+
+- Purchase
+- ROAS
+- AOV
+- Conversion Rate
+
+Karar Kuralları
+
+CPA ↓
+
+ROAS ↑
+
+→ Pozitif
+
+-----------------------------
+
+CPA ↑
+
+ROAS ↓
+
+→ Negatif
+
+-----------------------------
+
+CPA ↑
+
+CTR ↓
+
+→ Creative problemi olabilir
+
+-----------------------------
+
+CPA ↑
+
+Frequency ↑
+
+→ Audience doygunluğu olabilir
+
+==================================================================================================================
+CTR
+
+(Click Through Rate)
+
+=========================================================
+
+Amaç
+
+Reklamın ilgi çekiciliğini ölçmek.
+
+CTR düşükse
+
+önce kreatif incelenir.
+
+Sonra hedef kitle.
+
+Sonra teklif.
+
+CTR hiçbir zaman tek başına değerlendirilmez.
+
+==================================================================================================================
+CPM
+
+(Cost Per Mille)
+
+=========================================================
+
+Amaç
+
+1000 gösterim maliyetini ölçmek.
+
+Yüksek CPM
+
+tek başına kötü değildir.
+
+CTR yüksekse
+
+yüksek CPM kabul edilebilir.
+
+==================================================================================================================
+FREQUENCY
+
+=========================================================
+
+Frequency
+
+aynı kişinin reklamı kaç kez gördüğünü gösterir.
+
+Kurallar
+
+1–2
+
+Sağlıklı
+
+----------------
+
+2–3
+
+Takip Et
+
+----------------
+
+3–4
+
+Creative kontrolü
+
+----------------
+
+4+
+
+Creative değişimi değerlendir
+
+==================================================================================================================
+CPC
+
+=========================================================
+
+Yüksek CPC
+
+önce
+
+CTR ile birlikte değerlendirilir.
+
+CTR düşükse
+
+creative problemi olabilir.
+
+CTR yüksek
+
+CPC yüksek
+
+ise
+
+rekabet artmış olabilir.
+
+==================================================================================================================
+KPI RELATIONSHIPS
+
+ROAS
+
+↓
+
+CPA
+
+↓
+
+CTR
+
+↓
+
+CPM
+
+↓
+
+Frequency
+
+↓
+
+Purchase
+
+↓
+
+Revenue
+
+==================================================================================================================
+GOLDEN RULES
+
+MetaAgent;
+
+Hiçbir KPI'yı tek başına yorumlamaz.
+
+En az üç KPI birlikte analiz edilir.
+
+KPI değişimlerini trend olarak değerlendirir.
+
+Her öneri sayısal verilere dayanır.
+
+==================================================================================================================
+VERSION HISTORY
+
+v1.0
+
+İlk sürüm oluşturuldu.
+
+=========================================================

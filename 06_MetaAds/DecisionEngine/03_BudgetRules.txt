@@ -1,0 +1,333 @@
+=========================================================
+BUDGET RULES
+
+Meta Decision Engine
+
+Version 1.0
+
+=========================================================
+
+AMAÇ
+
+Bu belge MetaAgent'in bütçe yönetim kurallarını içerir.
+
+MetaAgent;
+
+• Bütçe artırma
+• Bütçe azaltma
+• Bütçe koruma
+• Yeni kampanya bütçesi
+• Test bütçesi
+
+kararlarını bu kurallara göre verir.
+
+=========================================================
+
+ALTIN KURAL
+
+Hiçbir zaman yalnızca ROAS yüksek diye bütçe artırılmaz.
+
+Önce;
+
+• Learning Phase
+• Frequency
+• CPA
+• CTR
+• Conversion Rate
+• Purchase Sayısı
+
+birlikte değerlendirilir.
+
+=========================================================
+
+BÜTÇE KONTROL SIRASI
+
+1. Learning Phase
+
+↓
+
+2. Purchase Sayısı
+
+↓
+
+3. ROAS
+
+↓
+
+4. CPA
+
+↓
+
+5. Frequency
+
+↓
+
+6. CTR
+
+↓
+
+7. Conversion Rate
+
+↓
+
+8. Son Karar
+
+==================================================================================================================
+LEARNING PHASE RULES
+
+=========================================================
+
+IF
+
+Campaign = Learning
+
+THEN
+
+Bütçe değiştirme.
+
+------------------------------------------------
+
+IF
+
+Campaign = Learning Limited
+
+THEN
+
+Dikkatli analiz et.
+
+------------------------------------------------
+
+IF
+
+Campaign = Active
+
+THEN
+
+Diğer KPI'lara geç.
+
+==================================================================================================================
+BUDGET INCREASE RULES
+
+=========================================================
+
+IF
+
+ROAS > 5
+
+AND
+
+CPA hedef altında
+
+AND
+
+Frequency < 2
+
+THEN
+
+Bütçeyi %10 artır.
+
+------------------------------------------------
+
+IF
+
+ROAS > 6
+
+AND
+
+Purchase artıyor
+
+AND
+
+CTR > %2
+
+THEN
+
+Bütçeyi %15 artır.
+
+------------------------------------------------
+
+IF
+
+ROAS > 7
+
+AND
+
+Son 7 gün stabil
+
+THEN
+
+%20 artırmayı değerlendir.
+
+------------------------------------------------
+
+IF
+
+Frequency > 3
+
+THEN
+
+Önce kreatif yenile.
+
+Bütçe artırma.
+
+==================================================================================================================
+BUDGET REDUCE RULES
+
+=========================================================
+
+IF
+
+ROAS düşüyor
+
+AND
+
+CPA yükseliyor
+
+THEN
+
+Bütçeyi azaltmayı değerlendir.
+
+------------------------------------------------
+
+IF
+
+CTR düşüyor
+
+AND
+
+Frequency artıyor
+
+THEN
+
+Önce kreatifi değiştir.
+
+==================================================================================================================
+KEEP BUDGET RULES
+
+=========================================================
+
+IF
+
+ROAS stabil
+
+CPA stabil
+
+CTR stabil
+
+THEN
+
+Bütçeyi değiştirme.
+
+------------------------------------------------
+
+IF
+
+Learning devam ediyor
+
+THEN
+
+Hiçbir değişiklik yapma.
+
+==================================================================================================================
+TEST CAMPAIGN BUDGET
+
+=========================================================
+
+Yeni test kampanyalarında;
+
+ABO kullanılmalıdır.
+
+Her reklam seti eşit bütçe ile başlamalıdır.
+
+Kazanan reklam belirlenmeden bütçe artırılmaz.
+
+==================================================================================================================
+PRE SCALING CHECKLIST
+
+=========================================================
+
+□ ROAS son 7 gün stabil mi?
+
+□ CPA hedef altında mı?
+
+□ Frequency 2.5 altında mı?
+
+□ CTR düşmüyor mu?
+
+□ Pixel sağlıklı mı?
+
+□ Purchase Event geliyor mu?
+
+□ Landing Page çalışıyor mu?
+
+□ Stok yeterli mi?
+
+□ Ürün kâr marjı uygun mu?
+
+Tüm cevaplar EVET ise;
+
+↓
+
+Scaling değerlendir.
+
+==================================================================================================================
+AI DECISION ENGINE
+
+=========================================================
+
+Bütçe artırmadan önce;
+
+Learning
+
+↓
+
+ROAS
+
+↓
+
+CPA
+
+↓
+
+Frequency
+
+↓
+
+CTR
+
+↓
+
+Conversion Rate
+
+↓
+
+Purchase
+
+↓
+
+Landing Page
+
+↓
+
+Pixel
+
+↓
+
+Karar Ver
+
+==================================================================================================================
+OLIVOS STANDARDI
+
+=========================================================
+
+• Gün içinde birden fazla büyük bütçe değişikliği yapılmaz.
+
+• Bütçe artışları kademeli uygulanır.
+
+• Ölçekleme öncesinde son 7 günlük performans incelenir.
+
+• Yalnızca ROAS değil, kârlılık da değerlendirilir.
+
+• Kampanya düzenlendikten sonra sistemin yeniden öğrenme süreci dikkate alınır.
+
+=========================================================

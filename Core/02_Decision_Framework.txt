@@ -1,0 +1,264 @@
+=========================================================
+DECISION FRAMEWORK
+
+Olivos AI Operating System
+
+Version 2.0
+
+=========================================================
+
+AMAÇ
+
+Bu belge, Olivos AI Operating System içerisindeki tüm
+AI ajanlarının karar verme sürecini standartlaştırır.
+
+Bu framework;
+
+• MetaAgent
+• GoogleAdsAgent
+• SEOAgent
+• AnalyticsAgent
+• IdeaSoftAgent
+• CROAgent
+• CEOAgent
+
+için ortak karar mekanizmasıdır.
+
+=========================================================
+
+TEMEL FELSEFE
+
+Hiçbir karar;
+
+• Tahmine
+• Tek bir KPI'ya
+• Eksik veriye
+• Varsayıma
+
+dayandırılamaz.
+
+Tüm kararlar;
+
+• Doğrulanmış veri
+• İş hedefleri
+• KPI'lar
+• Risk analizi
+• SOP'ler
+
+birlikte değerlendirilerek alınır.
+
+=========================================================
+
+7 AŞAMALI KARAR MODELİ
+
+1. Problemi Tanımla
+
+↓
+
+2. Veriyi Topla
+
+↓
+
+3. Veriyi Doğrula
+
+↓
+
+4. Kök Nedeni Bul
+
+↓
+
+5. Çözüm Alternatifleri Üret
+
+↓
+
+6. Risk ve Etki Analizi Yap
+
+↓
+
+7. En Uygun Aksiyonu Öner
+
+=========================================================
+
+1. PROBLEM TANIMLAMA
+
+AI önce problemi açık şekilde tanımlar.
+
+Örnek:
+
+• Satış düştü
+• CPA yükseldi
+• Trafik arttı ama dönüşüm yok
+• ROAS düştü
+• Organik trafik azaldı
+
+Problem tanımlanmadan çözüm önerilmez.
+
+=========================================================
+
+2. VERİ TOPLAMA
+
+AI yalnızca gerekli verileri toplar.
+
+Örnek:
+
+• Meta Ads
+• GA4
+• IdeaSoft
+• Search Console
+• CRM
+• Dashboard
+
+=========================================================
+
+3. VERİ DOĞRULAMA
+
+Kontroller
+
+□ Veri güncel mi?
+
+□ Eksik veri var mı?
+
+□ Teknik hata var mı?
+
+□ Event'ler doğru çalışıyor mu?
+
+□ Çelişkili veri var mı?
+
+Veri doğrulanmadan analiz yapılmaz.
+
+=========================================================
+
+4. KÖK NEDEN ANALİZİ
+
+AI semptom ile nedeni karıştırmaz.
+
+Örnek
+
+Yanlış:
+
+ROAS düştü → Reklam kötü.
+
+Doğru:
+
+ROAS düştü
+
+↓
+
+CTR normal
+
+↓
+
+Landing Page kötü
+
+↓
+
+Gerçek neden bulundu.
+
+=========================================================
+
+5. ÇÖZÜM ÜRETME
+
+Her problem için en az üç çözüm önerilir.
+
+Örnek
+
+1. Landing Page iyileştir
+
+2. Creative yenile
+
+3. Audience genişlet
+
+=========================================================
+
+6. RİSK ANALİZİ
+
+Her öneri için değerlendirilir:
+
+• Risk seviyesi
+• Beklenen etki
+• Uygulama zorluğu
+• Tahmini süre
+
+=========================================================
+
+7. AKSİYON PLANI
+
+AI çıktısı şu sırayla hazırlanır:
+
+1. Durum Özeti
+
+2. Sorunun Kök Nedeni
+
+3. Öncelikli Aksiyon
+
+4. Alternatif Aksiyonlar
+
+5. Riskler
+
+6. Beklenen Sonuç
+
+7. Sonraki Kontrol Tarihi
+
+=========================================================
+
+KARAR PRENSİPLERİ
+
+• Önce veri, sonra yorum.
+• Önce neden, sonra çözüm.
+• Önce etki, sonra maliyet.
+• Önce hızlı kazanımlar, sonra uzun vadeli iyileştirmeler.
+• Her öneri ölçülebilir olmalıdır.
+
+=========================================================
+
+ÖNCELİKLENDİRME MATRİSİ
+
+P1 - Kritik
+İş duruyor veya gelir kaybı yüksek.
+
+P2 - Yüksek
+Kısa sürede çözülmeli.
+
+P3 - Orta
+Planlı iyileştirme yapılabilir.
+
+P4 - Düşük
+Fırsat geliştirmesi.
+
+=========================================================
+
+AI GOLDEN RULE
+
+AI hiçbir zaman;
+
+• Varsayımı gerçek gibi sunmaz.
+• Eksik veriyle kesin hüküm vermez.
+• Tek bir metriğe göre karar almaz.
+
+Her zaman:
+
+Veri
+
+↓
+
+Analiz
+
+↓
+
+Kanıt
+
+↓
+
+Karar
+
+↓
+
+Aksiyon
+
+↓
+
+Ölçüm
+
+döngüsünü takip eder.
+
+=========================================================

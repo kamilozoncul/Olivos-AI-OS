@@ -1,0 +1,520 @@
+=========================================================
+SCALING RULES
+
+Meta Decision Engine
+
+Version 1.0
+
+=========================================================
+
+AMAÇ
+
+Bu belge MetaAgent'in kampanyaları güvenli şekilde
+ölçeklendirmesi için kullanılan kuralları içerir.
+
+MetaAgent;
+
+• Ne zaman ölçekleneceğine
+• Nasıl ölçekleneceğine
+• Ne kadar bütçe artıracağına
+• Ne zaman duracağına
+
+bu kurallara göre karar verir.
+
+=========================================================
+
+SCALING FELSEFESİ
+
+Amaç sadece bütçeyi artırmak değildir.
+
+Amaç;
+
+Karlılığı koruyarak
+
+daha fazla satış elde etmektir.
+
+=========================================================
+
+SCALING TÜRLERİ
+
+1. Vertical Scaling
+
+2. Horizontal Scaling
+
+3. Creative Scaling
+
+4. Audience Scaling
+
+5. Campaign Scaling
+
+6. Advantage+ Scaling
+
+=========================================================
+
+SCALING ÖNCELİĞİ
+
+1. Karlılık
+
+↓
+
+2. ROAS
+
+↓
+
+3. CPA
+
+↓
+
+4. Purchase
+
+↓
+
+5. Conversion Rate
+
+↓
+
+6. Frequency
+
+↓
+
+7. CTR
+
+↓
+
+8. CPM
+
+=========================================================
+
+META AGENT KURALI
+
+Hiçbir kampanya;
+
+yalnızca ROAS yüksek diye ölçeklenmez.
+
+Önce tüm KPI'lar değerlendirilir.
+
+==================================================================================================================
+
+VERTICAL SCALING
+
+=========================================================
+
+Tanım
+
+Mevcut kampanyanın bütçesini artırmaktır.
+
+=========================================================
+
+Ne zaman uygulanır?
+
+✓ ROAS stabil
+
+✓ CPA hedef altında
+
+✓ Son 7 gün performans stabil
+
+✓ Frequency düşük
+
+✓ Pixel sağlıklı
+
+=========================================================
+
+Bütçe Artırma Kuralları
+
+İlk artış
+
+%10
+
+----------------------
+
+İkinci artış
+
+%15
+
+----------------------
+
+Üçüncü artış
+
+%20
+
+=========================================================
+
+AI KURALI
+
+IF
+
+ROAS > hedef
+
+AND
+
+CPA stabil
+
+AND
+
+Frequency < 2.5
+
+THEN
+
+Vertical Scaling öner.
+
+==================================================================================================================
+
+HORIZONTAL SCALING
+
+=========================================================
+
+Tanım
+
+Kazanan kampanyanın kopyalanarak yeni
+Audience veya yeni Creative ile çoğaltılmasıdır.
+
+=========================================================
+
+Avantajları
+
+• Daha güvenlidir.
+
+• Learning bozulmaz.
+
+• Yeni kitlelere ulaşılır.
+
+=========================================================
+
+Ne zaman uygulanır?
+
+✓ Kazanan kreatif bulunduysa
+
+✓ Audience doygunluğa ulaştıysa
+
+✓ Frequency yükseliyorsa
+
+✓ Yeni pazar hedefleniyorsa
+
+=========================================================
+
+AI KARARI
+
+Frequency yükseliyor
+
+↓
+
+Horizontal Scaling öner.
+
+==================================================================================================================
+
+CREATIVE SCALING
+
+=========================================================
+
+Amaç
+
+Kazanan reklam fikrini farklı formatlarla çoğaltmaktır.
+
+=========================================================
+
+Örnek
+
+Video A başarılı
+
+↓
+
+UGC versiyonu
+
+↓
+
+Carousel versiyonu
+
+↓
+
+Image versiyonu
+
+↓
+
+Short Video
+
+↓
+
+Reels
+
+=========================================================
+
+AI KURALI
+
+Kazanan Hook korunur.
+
+Format değiştirilir.
+
+==================================================================================================================
+
+AUDIENCE SCALING
+
+=========================================================
+
+Yöntemler
+
+Lookalike
+
+Broad
+
+Interest
+
+Advantage+
+
+Customer List
+
+Website Visitors
+
+=========================================================
+
+Öncelik
+
+1 Broad
+
+2 Advantage+
+
+3 Lookalike
+
+4 Interest
+
+=========================================================
+
+AI KURALI
+
+Audience küçülüyorsa
+
+↓
+
+Yeni Audience öner.
+
+==================================================================================================================
+
+CAMPAIGN SCALING
+
+=========================================================
+
+Başarılı kampanya
+
+↓
+
+Yeni kampanya oluştur
+
+↓
+
+Yeni Audience
+
+↓
+
+Yeni Creative
+
+↓
+
+Yeni Budget
+
+=========================================================
+
+Avantaj
+
+Risk dağıtılır.
+
+==================================================================================================================
+
+ADVANTAGE+ SCALING
+
+=========================================================
+
+Şartlar
+
+Pixel güçlü
+
++
+
+Purchase yüksek
+
++
+
+ROAS stabil
+
++
+
+Birden fazla başarılı kreatif
+
+=========================================================
+
+AI KARARI
+
+Bu şartlar sağlanıyorsa
+
+Advantage+
+
+öner.
+
+==================================================================================================================
+
+PRE SCALING CHECKLIST
+
+=========================================================
+
+□ ROAS son 7 gün stabil mi?
+
+□ CPA hedef altında mı?
+
+□ Frequency düşük mü?
+
+□ CTR düşmüyor mu?
+
+□ Pixel sağlıklı mı?
+
+□ Purchase Event geliyor mu?
+
+□ Landing Page çalışıyor mu?
+
+□ Checkout sorunsuz mu?
+
+□ Stok yeterli mi?
+
+□ Kâr marjı uygun mu?
+
+==================================================================================================================
+
+STOP SCALING RULES
+
+=========================================================
+
+IF
+
+ROAS %20 düşerse
+
+↓
+
+Scaling durdur.
+
+------------------------------------------------
+
+IF
+
+CPA %20 artarsa
+
+↓
+
+Scaling durdur.
+
+------------------------------------------------
+
+IF
+
+Frequency 4 üzerine çıkarsa
+
+↓
+
+Yeni kreatif öner.
+
+------------------------------------------------
+
+IF
+
+CTR düşmeye başlarsa
+
+↓
+
+Creative Refresh başlat.
+
+------------------------------------------------
+
+IF
+
+Purchase düşüyorsa
+
+↓
+
+Landing Page analiz et.
+
+==================================================================================================================
+
+AI DECISION ENGINE
+
+=========================================================
+
+Scaling isteği geldiğinde
+
+↓
+
+Learning kontrol et.
+
+↓
+
+ROAS kontrol et.
+
+↓
+
+CPA kontrol et.
+
+↓
+
+Frequency kontrol et.
+
+↓
+
+CTR kontrol et.
+
+↓
+
+Landing Page kontrol et.
+
+↓
+
+Pixel kontrol et.
+
+↓
+
+Kâr marjını kontrol et.
+
+↓
+
+Scaling türünü belirle.
+
+↓
+
+Bütçe artış oranını hesapla.
+
+↓
+
+Risk analizi oluştur.
+
+↓
+
+Son kararı üret.
+
+==================================================================================================================
+
+OLIVOS STANDARDI
+
+=========================================================
+
+Yeni kampanyalar ölçeklenmez.
+
+Önce test edilir.
+
+Kazananlar belirlenir.
+
+Sonra ölçeklenir.
+
+Ölçekleme;
+
+önce Vertical
+
+daha sonra Horizontal
+
+en son Advantage+
+
+şeklinde uygulanır.
+
+Her bütçe artışından sonra
+en az 24 saat boyunca performans izlenir.
+
+Ölçekleme sırasında
+tek seferde agresif bütçe artışı yapılmaz.
+
+Her ölçekleme işlemi sonunda
+MetaAgent yeni KPI değerlendirmesi yapar.
+
+=========================================================

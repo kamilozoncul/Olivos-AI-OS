@@ -1,0 +1,371 @@
+=========================================================
+DECISION TREE
+
+Version 1.0
+
+=========================================================
+
+1. Genel Karar Ağacı
+
+2. ROAS Decision Tree
+
+3. CPA Decision Tree
+
+4. CTR Decision Tree
+
+5. CPC Decision Tree
+
+6. CPM Decision Tree
+
+7. Frequency Decision Tree
+
+8. Conversion Decision Tree
+
+9. Pixel Decision Tree
+
+10. Scaling Decision Tree
+
+11. Kill Decision Tree
+
+12. Budget Decision Tree
+
+13. Landing Page Decision Tree
+
+14. Funnel Decision Tree
+
+15. Audience Decision Tree
+
+16. Creative Decision Tree
+
+17. Attribution Decision Tree
+
+18. Reporting Decision Tree
+
+==================================================================================================================
+GENERAL DECISION TREE
+
+=========================================================
+
+KURAL
+
+MetaAgent hiçbir zaman tek metrik ile karar vermez.
+
+Karar sırası her zaman aşağıdaki gibidir.
+
+1. Veri doğrulama
+
+↓
+
+2. Purchase kontrolü
+
+↓
+
+3. ROAS analizi
+
+↓
+
+4. CPA analizi
+
+↓
+
+5. Conversion Rate analizi
+
+↓
+
+6. Funnel analizi
+
+↓
+
+7. CTR analizi
+
+↓
+
+8. CPC analizi
+
+↓
+
+9. CPM analizi
+
+↓
+
+10. Frequency analizi
+
+↓
+
+11. Audience analizi
+
+↓
+
+12. Creative analizi
+
+↓
+
+13. Landing Page analizi
+
+↓
+
+14. Pixel analizi
+
+↓
+
+15. Sonuç oluştur
+
+==================================================================================================================
+DATA VALIDATION
+
+=========================================================
+
+İlk kontrol
+
+Pixel veri gönderiyor mu?
+
+↓
+
+Evet
+
+↓
+
+Purchase Event geliyor mu?
+
+↓
+
+Evet
+
+↓
+
+Conversion API aktif mi?
+
+↓
+
+Evet
+
+↓
+
+Attribution doğru mu?
+
+↓
+
+Evet
+
+↓
+
+Analize devam et.
+
+------------------------------------------------
+
+Herhangi biri
+
+Hayır
+
+↓
+
+Teknik hata uyarısı oluştur.
+
+↓
+
+Optimizasyon yapma.
+
+↓
+
+Önce teknik sorun çözülmeli.
+
+==================================================================================================================
+ROAS DECISION TREE
+
+=========================================================
+
+ROAS
+
+↓
+
+ROAS > 5
+
+↓
+
+CPA kontrol et.
+
+↓
+
+CPA normalse
+
+↓
+
+Frequency kontrol et.
+
+↓
+
+Frequency < 2
+
+↓
+
+Ölçekleme öner.
+
+------------------------------------------------
+
+ROAS 3-5
+
+↓
+
+Kampanyayı izle.
+
+↓
+
+Yeni kreatif testleri öner.
+
+------------------------------------------------
+
+ROAS 2-3
+
+↓
+
+CTR kontrol et.
+
+↓
+
+CTR düşükse
+
+↓
+
+Kreatif değiştir.
+
+↓
+
+CTR yüksekse
+
+↓
+
+Landing Page analiz et.
+
+------------------------------------------------
+
+ROAS < 2
+
+↓
+
+Funnel analiz et.
+
+↓
+
+Checkout analiz et.
+
+↓
+
+Offer analiz et.
+
+↓
+
+Audience analiz et.
+
+↓
+
+Sonra karar ver.
+
+==================================================================================================================
+CPA DECISION TREE
+
+=========================================================
+
+CPA
+
+↓
+
+Hedef CPA'nın altında
+
+↓
+
+ROAS kontrol et.
+
+↓
+
+ROAS iyiyse
+
+↓
+
+Bütçe artırmayı değerlendir.
+
+------------------------------------------------
+
+CPA yükseliyor
+
+↓
+
+CTR nasıl?
+
+↓
+
+CTR düşük
+
+↓
+
+Kreatif değiştir.
+
+------------------------------------------------
+
+CTR yüksek
+
+↓
+
+Landing Page analiz et.
+
+------------------------------------------------
+
+Landing Page iyi
+
+↓
+
+Checkout analiz et.
+
+------------------------------------------------
+
+Checkout iyi
+
+↓
+
+Audience analiz et.
+
+==================================================================================================================
+META AGENT GOLDEN RULE
+
+=========================================================
+
+Hiçbir zaman;
+
+CTR
+
+veya
+
+CPA
+
+veya
+
+ROAS
+
+tek başına değerlendirilmez.
+
+Her karar;
+
+En az üç KPI
+
++
+
+Funnel
+
++
+
+Landing Page
+
++
+
+Pixel
+
++
+
+Audience
+
++
+
+Creative
+
+birlikte analiz edilerek verilir.
+
+=========================================================

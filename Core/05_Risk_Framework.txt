@@ -1,0 +1,364 @@
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-CORE-005
+
+Document Name:
+Risk Framework
+
+Version:
+2.0
+
+Owner:
+Olivos AI Operating System
+
+Status:
+Production
+
+Category:
+Core
+
+Dependencies:
+01_AI_Principles.md
+02_Decision_Framework.md
+03_KPI_Definitions.md
+04_Output_Standards.md
+
+Used By:
+All AI Agents
+
+==================================================================================================================
+PURPOSE
+=========================================================
+
+Bu belge tüm AI ajanlarının
+
+riskleri aynı standartta
+
+değerlendirmesini sağlar.
+
+Her risk;
+
+• Ölçülür
+
+• Sınıflandırılır
+
+• Önceliklendirilir
+
+• Çözüm önerisi oluşturulur.
+
+==================================================================================================================
+RISK PHILOSOPHY
+=========================================================
+
+AI
+
+riski tahmin etmez.
+
+AI
+
+kanıta dayalı risk analizi yapar.
+
+Her risk;
+
+olasılık
+
+×
+
+etki
+
+mantığıyla değerlendirilir.
+
+==================================================================================================================
+RISK SCORE
+
+Risk = Olasılık × Etki
+
+=========================================================
+
+Olasılık
+
+1 Çok Düşük
+
+2 Düşük
+
+3 Orta
+
+4 Yüksek
+
+5 Çok Yüksek
+
+---------------------------------------------------------
+
+Etki
+
+1 Önemsiz
+
+2 Küçük
+
+3 Orta
+
+4 Büyük
+
+5 Kritik
+
+==================================================================================================================
+RISK MATRIX
+
+               ETKİ
+
+          1  2  3  4  5
+
+OLASILIK
+
+1         🟢 🟢 🟢 🟡 🟡
+
+2         🟢 🟢 🟡 🟡 🟠
+
+3         🟢 🟡 🟡 🟠 🔴
+
+4         🟡 🟡 🟠 🔴 🔴
+
+5         🟡 🟠 🔴 🔴 🔴
+
+==================================================================================================================
+RISK LEVELS
+
+🟢 LOW
+
+Takip edilir.
+
+------------------------------------------------
+
+🟡 MEDIUM
+
+Planlanır.
+
+------------------------------------------------
+
+🟠 HIGH
+
+Kısa sürede aksiyon alınır.
+
+------------------------------------------------
+
+🔴 CRITICAL
+
+Derhal müdahale edilir.
+
+==================================================================================================================
+RISK TYPES
+
+R001
+
+Technical Risk
+
+---------------------------------------
+
+R002
+
+Marketing Risk
+
+---------------------------------------
+
+R003
+
+Financial Risk
+
+---------------------------------------
+
+R004
+
+Operational Risk
+
+---------------------------------------
+
+R005
+
+Customer Experience Risk
+
+---------------------------------------
+
+R006
+
+Inventory Risk
+
+---------------------------------------
+
+R007
+
+SEO Risk
+
+---------------------------------------
+
+R008
+
+Data Quality Risk
+
+---------------------------------------
+
+R009
+
+Legal & Compliance Risk
+
+---------------------------------------
+
+R010
+
+Brand Reputation Risk
+
+==================================================================================================================
+RISK EVALUATION
+
+Her risk için;
+
+Risk ID
+
+Risk Tanımı
+
+Sebep
+
+Kanıt
+
+Olasılık
+
+Etki
+
+Risk Skoru
+
+Öncelik
+
+Önerilen Aksiyon
+
+Sorumlu
+
+Kontrol Tarihi
+
+zorunludur.
+
+==================================================================================================================
+RISK RESPONSE
+
+AI aşağıdaki stratejilerden birini seçer.
+
+Avoid
+
+Riski tamamen ortadan kaldır.
+
+---------------------------------------
+
+Reduce
+
+Riski azalt.
+
+---------------------------------------
+
+Transfer
+
+Başka sisteme devret.
+
+---------------------------------------
+
+Accept
+
+İzle ve kabul et.
+
+==================================================================================================================
+PRIORITY RULES
+
+P1
+
+İlk 24 saat
+
+-----------------------------
+
+P2
+
+3 Gün
+
+-----------------------------
+
+P3
+
+7 Gün
+
+-----------------------------
+
+P4
+
+30 Gün
+
+==================================================================================================================
+EXAMPLE
+
+Risk
+
+Purchase Event çalışmıyor.
+
+Risk Türü
+
+Technical
+
+Olasılık
+
+5
+
+Etki
+
+5
+
+Risk Skoru
+
+25
+
+Seviye
+
+🔴 Kritik
+
+Aksiyon
+
+Pixel ve Conversion API kontrol edilir.
+
+==================================================================================================================
+AI GOLDEN RULE
+
+Hiçbir risk
+
+tek başına değerlendirilmez.
+
+Risk
+
+↓
+
+Kanıt
+
+↓
+
+Etki
+
+↓
+
+Çözüm
+
+↓
+
+Kontrol
+
+sırasıyla analiz edilir.
+
+==================================================================================================================
+CHECKLIST
+
+□ Risk sınıflandırıldı mı?
+
+□ Kanıt var mı?
+
+□ Öncelik belirlendi mi?
+
+□ Aksiyon yazıldı mı?
+
+□ Kontrol tarihi eklendi mi?
+
+=========================================================

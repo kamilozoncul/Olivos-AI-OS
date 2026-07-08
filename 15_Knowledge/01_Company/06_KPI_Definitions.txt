@@ -1,0 +1,366 @@
+# KPI Definitions
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-COMP-006
+
+Document Name:
+KPI Definitions
+
+Version:
+1.0
+
+Status:
+Production
+
+Category:
+Business Intelligence
+
+Owner:
+Olivos AI Operating System
+
+=========================================================
+
+PURPOSE
+
+Bu belge Olivos AI OS içerisinde kullanılan
+tüm KPI'ların standart tanımlarını içerir.
+
+Tüm Agent'lar bu belgeyi referans almalıdır.
+
+==================================================================================================================
+
+KPI
+
+ROAS
+
+(Return On Ad Spend)
+
+=========================================================
+
+Definition
+
+Reklam harcamasının kaç kat gelir ürettiğini gösterir.
+
+Formula
+
+Revenue ÷ Ad Spend
+
+Target
+
+1.60+
+
+Warning
+
+1.30 - 1.59
+
+Critical
+
+<1.30
+
+Priority
+
+Critical
+
+Used By
+
+MetaAgent
+
+CEOAgent
+
+FinanceAgent
+
+Dashboard
+
+Business Impact
+
+ROAS düştüğünde
+
+kârlılık riski oluşur.
+
+==================================================================================================================
+
+KPI
+
+CPA
+
+(Cost Per Acquisition)
+
+=========================================================
+
+Definition
+
+Bir sipariş kazanmak için harcanan reklam maliyeti.
+
+Formula
+
+Ad Spend ÷ Purchase
+
+Target
+
+≤200 TL
+
+Warning
+
+200-230 TL
+
+Critical
+
+230 TL+
+
+Priority
+
+Critical
+
+Used By
+
+MetaAgent
+
+FinanceAgent
+
+CEOAgent
+
+Business Impact
+
+CPA yükseldikçe
+
+kârlılık azalır.
+
+==================================================================================================================
+
+KPI
+
+CTR
+
+Click Through Rate
+
+=========================================================
+
+Definition
+
+Reklamı gören kullanıcıların
+
+tıklama oranı.
+
+Formula
+
+Clicks ÷ Impressions ×100
+
+Target
+
+≥2%
+
+Warning
+
+1.5 - 2%
+
+Critical
+
+<1.5%
+
+Used By
+
+MetaAgent
+
+CreativeAgent
+
+Business Impact
+
+CTR düşükse
+
+Creative incelenir.
+
+==================================================================================================================
+
+KPI
+
+CPM
+
+=========================================================
+
+Definition
+
+1000 gösterimin maliyeti.
+
+Formula
+
+Spend ÷ Impressions ×1000
+
+Business Impact
+
+CPM yükselirse
+
+rekabet artmıştır.
+
+==================================================================================================================
+
+KPI
+
+Frequency
+
+=========================================================
+
+Definition
+
+Aynı kişinin reklamı
+
+ortalama kaç kez gördüğü.
+
+Target
+
+1.5 - 3
+
+Warning
+
+3 - 4
+
+Critical
+
+4+
+
+Business Impact
+
+Creative Fatigue
+
+==================================================================================================================
+
+KPI
+
+AOV
+
+Average Order Value
+
+=========================================================
+
+Definition
+
+Ortalama sepet tutarı.
+
+Formula
+
+Revenue ÷ Orders
+
+Business Impact
+
+AOV arttıkça
+
+kârlılık artar.
+
+==================================================================================================================
+
+KPI
+
+Profit Margin
+
+=========================================================
+
+Definition
+
+Net kâr oranı.
+
+Current Target
+
+60%
+
+Used By
+
+FinanceAgent
+
+CEOAgent
+
+==================================================================================================================
+
+KPI
+
+MER
+
+Marketing Efficiency Ratio
+
+=========================================================
+
+Definition
+
+Toplam ciro ÷
+
+Toplam pazarlama harcaması.
+
+Purpose
+
+Şirket seviyesinde
+
+pazarlama verimliliğini ölçer.
+
+==================================================================================================================
+
+PRIORITY
+
+P1
+
+Profit
+
+------------------------
+
+P2
+
+ROAS
+
+------------------------
+
+P3
+
+CPA
+
+------------------------
+
+P4
+
+Revenue
+
+------------------------
+
+P5
+
+CTR
+
+------------------------
+
+P6
+
+Frequency
+
+------------------------
+
+P7
+
+CPM
+
+==================================================================================================================
+
+Revenue
+
+↓
+
+ROAS
+
+↓
+
+CPA
+
+↓
+
+Profit
+
+↓
+
+Scaling Decision
+
+==================================================================================================================
+
+v1.0
+
+Initial Release
+
+=========================================================

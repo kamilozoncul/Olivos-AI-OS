@@ -1,0 +1,305 @@
+=========================================================
+PIXEL RULES
+
+Meta Decision Engine
+
+Version 1.0
+
+=========================================================
+
+AMAÇ
+
+Bu belge Meta Pixel, Conversion API ve Event
+takibini doğrulamak için kullanılır.
+
+MetaAgent;
+
+• Pixel sağlığını kontrol eder
+
+• Event doğruluğunu analiz eder
+
+• Conversion API durumunu kontrol eder
+
+• Event Match Quality analiz eder
+
+• Deduplication kontrolü yapar
+
+• Teknik sorunları raporlar
+
+=========================================================
+
+ALTIN KURAL
+
+Teknik altyapı doğrulanmadan
+
+hiçbir reklam performansı
+
+yorumlanmaz.
+
+==================================================================================================================
+
+PIXEL HEALTH CHECK
+
+=========================================================
+
+Kontrol Edilecekler
+
+□ Pixel aktif mi?
+
+□ Veri geliyor mu?
+
+□ Son Event zamanı normal mi?
+
+□ Event sayıları tutarlı mı?
+
+□ Domain doğrulanmış mı?
+
+□ AEM yapılandırılmış mı?
+
+□ Conversion API aktif mi?
+
+□ Event Match Quality yeterli mi?
+
+==================================================================================================================
+
+EVENT RULES
+
+=========================================================
+
+Zorunlu Eventler
+
+PageView
+
+ViewContent
+
+AddToCart
+
+InitiateCheckout
+
+AddPaymentInfo
+
+Purchase
+
+=========================================================
+
+AI Kuralı
+
+Eksik Event varsa
+
+↓
+
+Teknik uyarı oluştur.
+
+↓
+
+Optimizasyon durdur.
+
+==================================================================================================================
+
+PURCHASE EVENT
+
+=========================================================
+
+Kontroller
+
+□ Value geliyor mu?
+
+□ Currency geliyor mu?
+
+□ Transaction ID geliyor mu?
+
+□ Event tekrar ediyor mu?
+
+□ Purchase sayısı doğru mu?
+
+=========================================================
+
+AI Kuralı
+
+Purchase Event eksikse
+
+ROAS analiz edilmez.
+
+==================================================================================================================
+
+CONVERSION API
+
+=========================================================
+
+Kontroller
+
+□ Aktif mi?
+
+□ Event'ler geliyor mu?
+
+□ Browser + Server Event eşleşiyor mu?
+
+□ Deduplication çalışıyor mu?
+
+=========================================================
+
+AI Kuralı
+
+Conversion API kapalıysa
+
+Teknik öncelik oluştur.
+
+==================================================================================================================
+
+EVENT MATCH QUALITY
+
+=========================================================
+
+EMQ > 8
+
+Mükemmel
+
+----------------------------
+
+EMQ 6-8
+
+İyi
+
+----------------------------
+
+EMQ 4-6
+
+Geliştirilmeli
+
+----------------------------
+
+EMQ < 4
+
+Kritik
+
+==================================================================================================================
+
+DEDUPLICATION
+
+=========================================================
+
+Kontroller
+
+Browser Event
+
+↓
+
+Server Event
+
+↓
+
+Event ID aynı mı?
+
+↓
+
+Evet
+
+↓
+
+Sorun yok.
+
+Hayır
+
+↓
+
+Çift sayım olabilir.
+
+==================================================================================================================
+
+DOMAIN
+
+=========================================================
+
+□ Domain doğrulandı mı?
+
+□ AEM aktif mi?
+
+□ Purchase en üst sırada mı?
+
+□ Event öncelikleri doğru mu?
+
+==================================================================================================================
+
+TECHNICAL ALERTS
+
+=========================================================
+
+Kritik
+
+• Purchase Event yok
+
+• Pixel çalışmıyor
+
+• Conversion API kapalı
+
+• Domain doğrulanmamış
+
+Yüksek
+
+• Event Match Quality düşük
+
+• Deduplication sorunu
+
+Orta
+
+• Eksik parametre
+
+• Gecikmeli Event
+
+==================================================================================================================
+
+AI DECISION ENGINE
+
+=========================================================
+
+Pixel
+
+↓
+
+Purchase Event
+
+↓
+
+Conversion API
+
+↓
+
+Domain
+
+↓
+
+Event Match Quality
+
+↓
+
+Deduplication
+
+↓
+
+Veri Güvenilirliği
+
+↓
+
+Analize Devam Et
+
+==================================================================================================================
+
+OLIVOS STANDARDI
+
+=========================================================
+
+Her pazartesi
+
+Pixel Health Check yapılacaktır.
+
+Yeni kampanya açılmadan önce
+
+teknik kontrol tamamlanacaktır.
+
+Teknik hata bulunan hesaplarda
+
+optimizasyon önerisi verilmez.
+
+Öncelik her zaman veri doğruluğudur.
+
+=========================================================

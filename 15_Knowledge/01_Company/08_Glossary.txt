@@ -1,0 +1,107 @@
+# Glossary
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-COMP-008
+
+Document Name:
+Business Glossary
+
+Version:
+1.0
+
+Status:
+Production
+
+=========================================================
+
+AOV
+
+Average Order Value
+
+Ortalama Sepet Tutarı
+
+=========================================================
+
+CPA
+
+Cost Per Acquisition
+
+Bir sipariş için harcanan reklam maliyeti.
+
+=========================================================
+
+ROAS
+
+Return On Ad Spend
+
+Reklam yatırım getirisi.
+
+=========================================================
+
+CTR
+
+Click Through Rate
+
+Tıklanma oranı.
+
+=========================================================
+
+CPM
+
+1000 gösterim maliyeti.
+
+=========================================================
+
+MER
+
+Marketing Efficiency Ratio
+
+Toplam pazarlama verimliliği.
+
+=========================================================
+
+LTV
+
+Customer Lifetime Value
+
+Müşteri yaşam boyu değeri.
+
+=========================================================
+
+CAC
+
+Customer Acquisition Cost
+
+Müşteri edinme maliyeti.
+
+=========================================================
+
+Frequency
+
+Bir kullanıcının reklamı görme sayısı.
+
+=========================================================
+
+Creative Fatigue
+
+Reklam kreatifinin sürekli gösterim nedeniyle
+performans kaybetmesi.
+
+=========================================================
+
+Scaling
+
+Başarılı kampanyanın kontrollü büyütülmesi.
+
+=========================================================
+
+Break Even ROAS
+
+Zarar etmeye başlanmadan önce
+ulaşılması gereken minimum ROAS.
+
+=========================================================

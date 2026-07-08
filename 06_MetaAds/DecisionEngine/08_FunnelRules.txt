@@ -1,0 +1,444 @@
+=========================================================
+FUNNEL RULES
+
+Meta Decision Engine
+
+Version 1.0
+
+=========================================================
+
+AMAÇ
+
+Bu belge MetaAgent'in satış hunisini analiz etmesini sağlar.
+
+MetaAgent;
+
+• Funnel darboğazlarını tespit eder
+
+• Düşük dönüşüm nedenlerini analiz eder
+
+• Landing Page performansını değerlendirir
+
+• Checkout sürecini inceler
+
+• CRO önerileri üretir
+
+=========================================================
+
+FUNNEL FELSEFESİ
+
+Meta reklamları satış getirmez.
+
+Meta reklamları ziyaretçi getirir.
+
+Satışı Funnel yapar.
+
+=========================================================
+
+FUNNEL AKIŞI
+
+Impression
+
+↓
+
+Click
+
+↓
+
+Landing Page View
+
+↓
+
+View Content
+
+↓
+
+Add To Cart
+
+↓
+
+Initiate Checkout
+
+↓
+
+Add Payment Info
+
+↓
+
+Purchase
+
+==================================================================================================================
+
+FUNNEL KPI
+
+=========================================================
+
+CTR
+
+↓
+
+Landing Page View Rate
+
+↓
+
+View Content Rate
+
+↓
+
+Add To Cart Rate
+
+↓
+
+Checkout Rate
+
+↓
+
+Payment Rate
+
+↓
+
+Purchase Rate
+
+==================================================================================================================
+
+LANDING PAGE
+
+=========================================================
+
+Kontrol Listesi
+
+□ Sayfa 3 saniyeden kısa sürede açılıyor mu?
+
+□ Mobil uyumlu mu?
+
+□ SSL mevcut mu?
+
+□ Ürün fiyatı görünür mü?
+
+□ Stok bilgisi mevcut mu?
+
+□ Ürün açıklaması yeterli mi?
+
+□ Yorumlar var mı?
+
+□ Fotoğraflar kaliteli mi?
+
+□ Video mevcut mu?
+
+□ CTA görünür mü?
+
+□ Kargo bilgisi açık mı?
+
+□ İade politikası mevcut mu?
+
+□ Güven rozetleri var mı?
+
+==================================================================================================================
+
+VIEW CONTENT
+
+=========================================================
+
+IF
+
+Click yüksek
+
+View Content düşük
+
+THEN
+
+Landing Page problemi olabilir.
+
+Sayfa yüklenme süresi kontrol edilir.
+
+URL doğruluğu kontrol edilir.
+
+==================================================================================================================
+
+ADD TO CART
+
+=========================================================
+
+IF
+
+View Content yüksek
+
+Add To Cart düşük
+
+THEN
+
+Ürün sayfası analiz edilir.
+
+Kontrol
+
+• Fiyat
+
+• Görseller
+
+• Açıklama
+
+• CTA
+
+• Güven
+
+==================================================================================================================
+
+CHECKOUT
+
+=========================================================
+
+IF
+
+Add To Cart yüksek
+
+Checkout düşük
+
+THEN
+
+Sepet süreci analiz edilir.
+
+Kontrol
+
+• Kargo ücreti
+
+• Kargo süresi
+
+• Kupon alanı
+
+• Sepet tasarımı
+
+==================================================================================================================
+
+PAYMENT
+
+=========================================================
+
+IF
+
+Checkout yüksek
+
+Purchase düşük
+
+THEN
+
+Ödeme süreci analiz edilir.
+
+Kontrol
+
+• Kart hataları
+
+• Havale seçenekleri
+
+• Taksit
+
+• Güven
+
+• 3D Secure
+
+==================================================================================================================
+
+PURCHASE
+
+=========================================================
+
+IF
+
+Purchase düşüyor
+
+THEN
+
+Önce Funnel analiz edilir.
+
+Reklam hemen suçlanmaz.
+
+==================================================================================================================
+
+FUNNEL DECISION TREE
+
+=========================================================
+
+CTR
+
+↓
+
+İyi
+
+↓
+
+Landing Page
+
+↓
+
+İyi
+
+↓
+
+Add To Cart
+
+↓
+
+Düşük
+
+↓
+
+Ürün Sayfası
+
+↓
+
+Optimize Et
+
+---------------------------------------------------------
+
+CTR
+
+↓
+
+İyi
+
+↓
+
+Add To Cart
+
+↓
+
+İyi
+
+↓
+
+Checkout
+
+↓
+
+Düşük
+
+↓
+
+Sepeti Optimize Et
+
+---------------------------------------------------------
+
+Checkout
+
+↓
+
+İyi
+
+↓
+
+Purchase
+
+↓
+
+Düşük
+
+↓
+
+Ödeme Sürecini Analiz Et
+
+==================================================================================================================
+
+CRO
+
+=========================================================
+
+MetaAgent aşağıdaki alanları puanlar.
+
+Sayfa Hızı
+
+20
+
+Mobil Deneyim
+
+20
+
+Güven
+
+20
+
+Ürün Bilgisi
+
+15
+
+CTA
+
+10
+
+Yorumlar
+
+10
+
+Kargo Bilgisi
+
+5
+
+Toplam
+
+100
+
+==================================================================================================================
+
+AI DECISION ENGINE
+
+=========================================================
+
+Satış düşüyor
+
+↓
+
+CTR kontrol et
+
+↓
+
+CTR iyi
+
+↓
+
+Landing Page kontrol et
+
+↓
+
+Landing Page iyi
+
+↓
+
+Add To Cart kontrol et
+
+↓
+
+Checkout kontrol et
+
+↓
+
+Payment kontrol et
+
+↓
+
+Sorunun kaynağını belirle
+
+↓
+
+CRO önerileri oluştur
+
+==================================================================================================================
+
+OLIVOS STANDARDI
+
+=========================================================
+
+MetaAgent hiçbir zaman
+
+ROAS düşük diye
+
+reklamı suçlamaz.
+
+Önce Funnel analiz edilir.
+
+Her darboğaz için
+
+minimum
+
+3 optimizasyon önerisi
+
+sunulur.
+
+=========================================================

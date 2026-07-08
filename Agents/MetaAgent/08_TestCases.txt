@@ -1,0 +1,135 @@
+# MetaAgent Test Cases
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-META-008
+
+Document Name:
+Test Cases
+
+Version:
+1.0
+
+Status:
+Production
+
+Category:
+Testing
+
+Owner:
+Olivos AI Operating System
+
+=========================================================
+
+# PURPOSE
+
+Bu belge MetaAgent'in karar doğruluğunu test etmek için hazırlanmıştır.
+
+Her test senaryosunda:
+
+- Girdi
+- Beklenen analiz
+- Beklenen karar
+- Beklenen aksiyon
+
+tanımlanır.
+
+=========================================================
+
+TEST CASE 001
+
+Senaryo:
+ROAS: 5.2
+CPA: 145 TL
+CTR: %3.1
+Frequency: 1.9
+Purchase: Artıyor
+
+Beklenen Karar:
+✅ SCALE
+
+Beklenen Aksiyon:
+- Bütçeyi %15-20 artır
+- 24 saat takip et
+- Kreatifi değiştirme
+
+=========================================================
+
+TEST CASE 002
+
+Senaryo:
+ROAS: 1.4
+CPA: 420 TL
+CTR: %0.8
+Frequency: 5.1
+
+Beklenen Karar:
+⚠ OPTIMIZE
+
+Beklenen Aksiyon:
+- Kreatif değiştir
+- Audience yenile
+- Landing Page kontrol et
+
+=========================================================
+
+TEST CASE 003
+
+Senaryo:
+Purchase: 0
+Pixel: Aktif
+CAPI: Pasif
+
+Beklenen Karar:
+🚨 TRACKING ISSUE
+
+Beklenen Aksiyon:
+- Conversion API kontrolü
+- Event Match Quality incele
+- Event Manager loglarını kontrol et
+
+=========================================================
+
+TEST CASE 004
+
+Senaryo:
+ROAS: 0.9
+CPA: 610 TL
+Spend: 8.500 TL
+Purchase: 2
+
+Beklenen Karar:
+🛑 PAUSE
+
+Beklenen Aksiyon:
+- Kampanyayı durdur
+- Kreatif ve hedef kitleyi yeniden test et
+- Yeni test kampanyası oluştur
+
+=========================================================
+
+TEST CASE 005
+
+Senaryo:
+ROAS: 3.8
+CPA: Hedefte
+CTR: Yüksek
+Frequency: 4.7
+
+Beklenen Karar:
+⚠ CREATIVE FATIGUE
+
+Beklenen Aksiyon:
+- Yeni kreatif üret
+- Eski kreatifleri rotasyona al
+- Frequency'yi takip et
+
+=========================================================
+
+VERSION HISTORY
+
+v1.0
+İlk sürüm.

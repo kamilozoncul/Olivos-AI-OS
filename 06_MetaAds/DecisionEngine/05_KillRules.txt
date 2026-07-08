@@ -1,0 +1,503 @@
+=========================================================
+KILL RULES
+
+Meta Decision Engine
+
+Version 1.0
+
+=========================================================
+
+AMAÇ
+
+Bu belge MetaAgent'in kampanyaları;
+
+• Kapatma
+• Durdurma
+• İzleme
+• Optimize Etme
+
+kararlarını standart hale getirir.
+
+Amaç;
+
+gereksiz reklam harcamalarını önlemek,
+
+başarısız kampanyaları erken tespit etmek,
+
+başarılı kampanyaların ise gereksiz yere kapatılmasını engellemektir.
+
+=========================================================
+
+ALTIN KURAL
+
+Hiçbir kampanya
+
+tek bir KPI
+
+ile kapatılmaz.
+
+En az;
+
+ROAS
+
+CPA
+
+CTR
+
+Frequency
+
+Purchase
+
+Landing Page
+
+birlikte değerlendirilir.
+
+==================================================================================================================
+
+KILL DECISION FLOW
+
+=========================================================
+
+Veriyi doğrula
+
+↓
+
+Learning Phase kontrol et
+
+↓
+
+Purchase var mı?
+
+↓
+
+ROAS kontrol et
+
+↓
+
+CPA kontrol et
+
+↓
+
+CTR kontrol et
+
+↓
+
+Frequency kontrol et
+
+↓
+
+Landing Page kontrol et
+
+↓
+
+Pixel kontrol et
+
+↓
+
+Karar ver
+
+==================================================================================================================
+
+LEARNING PHASE
+
+=========================================================
+
+IF
+
+Campaign = Learning
+
+THEN
+
+Kapatma.
+
+Optimize etme.
+
+Bütçe değiştirme.
+
+Veri toplamaya devam et.
+
+------------------------------------------------
+
+IF
+
+Campaign = Learning Limited
+
+THEN
+
+Dikkatli analiz et.
+
+==================================================================================================================
+
+ROAS RULES
+
+=========================================================
+
+IF
+
+ROAS hedefin çok altında
+
+AND
+
+Yeterli veri oluşmuş
+
+THEN
+
+Kapatmayı değerlendir.
+
+------------------------------------------------
+
+IF
+
+ROAS düşük
+
+AMA
+
+CTR yüksek
+
+THEN
+
+Landing Page analiz et.
+
+------------------------------------------------
+
+IF
+
+ROAS düşük
+
+AMA
+
+CPA normal
+
+THEN
+
+Bekle.
+
+Yeni veri topla.
+
+==================================================================================================================
+
+CPA RULES
+
+=========================================================
+
+IF
+
+CPA hedefin üzerinde
+
+AND
+
+Artmaya devam ediyor
+
+THEN
+
+Sebebi araştır.
+
+------------------------------------------------
+
+IF
+
+CPA yüksek
+
+CTR düşük
+
+↓
+
+Creative problemi olabilir.
+
+------------------------------------------------
+
+IF
+
+CPA yüksek
+
+CTR yüksek
+
+↓
+
+Landing Page
+
+Checkout
+
+Offer
+
+analiz edilir.
+
+==================================================================================================================
+
+CTR RULES
+
+=========================================================
+
+IF
+
+CTR sürekli düşüyor
+
+↓
+
+Creative Refresh öner.
+
+------------------------------------------------
+
+IF
+
+CTR düşük
+
+CPM yüksek
+
+↓
+
+Audience değiştir.
+
+------------------------------------------------
+
+IF
+
+CTR yüksek
+
+ROAS düşük
+
+↓
+
+Landing Page analiz et.
+
+==================================================================================================================
+
+FREQUENCY RULES
+
+=========================================================
+
+IF
+
+Frequency > 3
+
+↓
+
+Creative değiştir.
+
+------------------------------------------------
+
+IF
+
+Frequency > 4
+
+↓
+
+Audience genişlet.
+
+------------------------------------------------
+
+IF
+
+Frequency > 5
+
+↓
+
+Campaign Fatigue.
+
+Scaling durdur.
+
+==================================================================================================================
+
+PURCHASE RULES
+
+=========================================================
+
+IF
+
+Click yüksek
+
+Purchase düşük
+
+↓
+
+Checkout analiz et.
+
+------------------------------------------------
+
+IF
+
+Add To Cart yüksek
+
+Purchase düşük
+
+↓
+
+Sepet süreci analiz edilir.
+
+------------------------------------------------
+
+IF
+
+Purchase artıyor
+
+↓
+
+Kampanyayı kapatma.
+
+==================================================================================================================
+
+LANDING PAGE RULES
+
+=========================================================
+
+Kontrol Edilecekler
+
+□ Sayfa açılıyor mu?
+
+□ Mobil uyumlu mu?
+
+□ Hız yeterli mi?
+
+□ Ürün stokta mı?
+
+□ Fiyat doğru mu?
+
+□ Güven unsurları mevcut mu?
+
+□ Yorumlar yeterli mi?
+
+□ Ödeme sistemi çalışıyor mu?
+
+==================================================================================================================
+
+PIXEL RULES
+
+=========================================================
+
+IF
+
+Purchase Event gelmiyor
+
+↓
+
+Teknik hata.
+
+------------------------------------------------
+
+IF
+
+Pixel veri göndermiyor
+
+↓
+
+Reklam değerlendirilmez.
+
+------------------------------------------------
+
+IF
+
+Conversion API kapalı
+
+↓
+
+Teknik uyarı oluştur.
+
+==================================================================================================================
+
+KILL CHECKLIST
+
+=========================================================
+
+□ Learning tamamlandı mı?
+
+□ Purchase yeterli mi?
+
+□ ROAS değerlendirildi mi?
+
+□ CPA değerlendirildi mi?
+
+□ CTR değerlendirildi mi?
+
+□ Frequency değerlendirildi mi?
+
+□ Pixel kontrol edildi mi?
+
+□ Landing Page kontrol edildi mi?
+
+□ Checkout kontrol edildi mi?
+
+□ Teknik hata bulunmuyor mu?
+
+==================================================================================================================
+
+AI DECISION ENGINE
+
+=========================================================
+
+Hiçbir kampanya
+
+hemen kapatılmaz.
+
+MetaAgent önce;
+
+Veriyi doğrular.
+
+↓
+
+Learning kontrol eder.
+
+↓
+
+Teknik hataları kontrol eder.
+
+↓
+
+Funnel analiz eder.
+
+↓
+
+KPI analiz eder.
+
+↓
+
+Sorunun kaynağını belirler.
+
+↓
+
+Optimize edilebiliyorsa
+
+optimizasyon önerir.
+
+↓
+
+Optimize edilemiyorsa
+
+kapatmayı önerir.
+
+==================================================================================================================
+
+OLIVOS STANDARDI
+
+=========================================================
+
+Bir kampanya;
+
+önce optimize edilir.
+
+Daha sonra tekrar değerlendirilir.
+
+En son kapatma kararı verilir.
+
+MetaAgent;
+
+"Kapat"
+
+demeden önce
+
+en az üç farklı çözüm önerisi sunmalıdır.
+
+Örneğin;
+
+• Kreatif değiştir
+
+• Audience değiştir
+
+• Landing Page optimize et
+
+• Offer değiştir
+
+Bu aksiyonlar sonuç vermezse
+
+kampanya durdurulur.
+
+=========================================================

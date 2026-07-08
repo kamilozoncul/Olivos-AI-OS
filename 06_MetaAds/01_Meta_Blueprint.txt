@@ -1,0 +1,158 @@
+=========================================================
+META BLUEPRINT
+
+Versiyon : 1.0
+
+=========================================================
+
+AMAÇ
+
+Bu belge Meta reklam sisteminin çalışma mantığını açıklar.
+
+MetaAgent bu dosyayı referans alarak karar verir.
+
+=========================================================
+
+META'NIN ANA HEDEFİ
+
+Meta'nın amacı;
+
+Doğru reklamı
+
+Doğru kişiye
+
+Doğru zamanda
+
+En düşük maliyetle
+
+göstermektir.
+
+=========================================================
+
+REKLAM AÇIK ARTIRMASI
+
+Her gösterim bir açık artırmadır.
+
+Kazanan reklam yalnızca en yüksek bütçeye sahip olan değildir.
+
+Meta üç ana faktörü değerlendirir.
+
+1. Teklif (Bid)
+
+2. Tahmini Eylem Oranı (Estimated Action Rate)
+
+3. Reklam Kalitesi (Ad Quality)
+
+Bu üç faktör birlikte toplam değeri oluşturur.
+
+=========================================================
+
+META'NIN OPTİMİZASYON FELSEFESİ
+
+Meta mümkün olduğunca fazla dönüşüm üretmeye çalışır.
+
+Sistem zaman içinde öğrenir.
+
+Bu nedenle sık değişiklik yapılması öğrenme sürecini bozabilir.
+
+=========================================================
+
+LEARNING PHASE
+
+Yeni kampanyalar öğrenme sürecine girer.
+
+Bu süreçte performans dalgalanabilir.
+
+Öğrenme tamamlanmadan büyük değişiklik yapılmamalıdır.
+
+=========================================================
+
+OPTİMİZASYON HİYERARŞİSİ
+
+1. Kampanya
+
+↓
+
+2. Reklam Seti
+
+↓
+
+3. Reklam
+
+Analiz her zaman bu sırayla yapılmalıdır.
+
+=========================================================
+
+REKLAM BAŞARISINI ETKİLEYEN FAKTÖRLER
+
+• Kreatif
+
+• Teklif
+
+• Hedef Kitle
+
+• Landing Page
+
+• Teklif (Offer)
+
+• Pixel Verisi
+
+• Dönüşüm Kalitesi
+
+=========================================================
+
+META'NIN SEVDİĞİ ŞEYLER
+
+Yüksek CTR
+
+Yüksek Etkileşim
+
+Yüksek Dönüşüm
+
+Düşük Negatif Geri Bildirim
+
+Yüksek Kullanıcı Deneyimi
+
+=========================================================
+
+META'NIN SEVMEDİĞİ ŞEYLER
+
+Clickbait
+
+Yanıltıcı Reklam
+
+Kötü Landing Page
+
+Yavaş Site
+
+Yanlış Pixel
+
+Düşük Relevans
+
+=========================================================
+
+META AGENT KURALI
+
+Her analizde şu sırayı uygula.
+
+1 Kampanya
+
+2 Reklam Seti
+
+3 Reklam
+
+4 Kreatif
+
+5 Audience
+
+6 Landing Page
+
+7 Pixel
+
+8 Funnel
+
+9 KPI
+
+10 Sonuç
+
+=========================================================

@@ -1,0 +1,311 @@
+# MetaAgent Output Template
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-META-005
+
+Document Name:
+Output Template
+
+Version:
+1.0
+
+Status:
+Production
+
+Category:
+Reporting
+
+Owner:
+Olivos AI Operating System
+
+Dependencies:
+
+01_SystemPrompt.md
+
+02_KPI_Rules.md
+
+03_Analysis_Workflow.md
+
+04_Decision_Tree.md
+
+==================================================================================================================
+
+PURPOSE
+
+Bu belge
+
+MetaAgent'in
+
+tüm analizlerini
+
+aynı profesyonel formatta
+
+sunmasını sağlar.
+
+Hiçbir rapor
+
+bu formatın dışına çıkamaz.
+
+==================================================================================================================
+
+REPORT STRUCTURE
+
+1 Executive Summary
+
+2 KPI Dashboard
+
+3 Campaign Performance
+
+4 Ad Set Performance
+
+5 Creative Performance
+
+6 Audience Analysis
+
+7 Pixel Health
+
+8 Problems Detected
+
+9 Root Cause Analysis
+
+10 Risk Assessment
+
+11 Recommendations
+
+12 Priority Actions
+
+13 Expected Impact
+
+14 Management Summary
+
+==================================================================================================================
+
+EXECUTIVE SUMMARY
+
+En fazla
+
+150 kelime
+
+olmalıdır.
+
+İçermesi gerekenler
+
+• Genel performans
+
+• En büyük problem
+
+• En büyük fırsat
+
+• Öncelikli aksiyon
+
+==================================================================================================================
+
+KPI DASHBOARD
+
+ROAS
+
+CPA
+
+CTR
+
+CPM
+
+CPC
+
+Frequency
+
+Purchase
+
+Revenue
+
+Spend
+
+AOV
+
+MER
+
+==================================================================================================================
+
+PERFORMANCE STATUS
+
+🟢 Excellent
+
+🟡 Good
+
+🟠 Warning
+
+🔴 Critical
+
+==================================================================================================================
+
+PROBLEM
+
+Problem
+
+↓
+
+Evidence
+
+↓
+
+Root Cause
+
+↓
+
+Business Impact
+
+↓
+
+Priority
+
+↓
+
+Recommendation
+
+==================================================================================================================
+
+RECOMMENDATION
+
+Action
+
+Reason
+
+Expected Result
+
+Priority
+
+Estimated Impact
+
+Risk
+
+Owner
+
+Deadline
+
+==================================================================================================================
+
+P1
+
+Immediate
+
+-----------------------------
+
+P2
+
+Today
+
+-----------------------------
+
+P3
+
+This Week
+
+-----------------------------
+
+P4
+
+Future Improvement
+
+==================================================================================================================
+
+EXPECTED IMPACT
+
+Her öneri için
+
+beklenen etki yazılmalıdır.
+
+Örnek
+
+CPA
+
+-12%
+
+ROAS
+
++18%
+
+CTR
+
++9%
+
+Purchase
+
++15%
+
+==================================================================================================================
+
+MANAGEMENT SUMMARY
+
+En fazla
+
+10 madde
+
+olmalıdır.
+
+Yönetici
+
+1 dakika içinde
+
+raporu anlayabilmelidir.
+
+==================================================================================================================
+
+OUTPUT QUALITY RULES
+
+Her rapor
+
+✔ Ölçülebilir
+
+✔ Kanıtlanabilir
+
+✔ Kısa
+
+✔ Profesyonel
+
+✔ Aksiyon odaklı
+
+✔ Tekrarsız
+
+olmalıdır.
+
+==================================================================================================================
+
+EXAMPLE
+
+Executive Summary
+
+Son 7 günde reklam performansı genel olarak olumlu.
+
+ROAS hedefin üzerinde.
+
+Ancak Frequency 4.5 seviyesine ulaştığı için kreatif yorgunluğu riski oluşmuştur.
+
+Priority
+
+P1
+
+Yeni kreatif testine başlanmalı.
+
+Beklenen Etki
+
+CPA
+
+-%10
+
+ROAS
+
++%15
+
+==================================================================================================================
+
+VERSION HISTORY
+
+v1.0
+
+İlk sürüm
+
+=========================================================

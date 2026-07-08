@@ -1,0 +1,104 @@
+# Company Profile
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-COMP-001
+
+Document Name:
+Company Profile
+
+Version:
+1.0
+
+Status:
+Production
+
+Owner:
+Olivos AI Operating System
+
+=========================================================
+
+# COMPANY OVERVIEW
+
+Company Name
+
+Olivos
+
+Industry
+
+Natural Cosmetics
+Personal Care
+Home Care
+
+Business Type
+
+E-Commerce
+
+Primary Platform
+
+IdeaSoft
+
+Sales Channels
+
+Official Website
+
+Trendyol
+
+Hepsiburada
+
+Amazon
+
+=========================================================
+
+# BUSINESS OBJECTIVE
+
+Primary Goal
+
+Increase profitable revenue through sustainable digital marketing.
+
+Secondary Goals
+
+- Increase customer lifetime value (LTV)
+- Reduce customer acquisition cost (CPA)
+- Improve return on ad spend (ROAS)
+- Increase repeat purchases
+- Strengthen brand awareness
+
+=========================================================
+
+# TARGET KPI
+
+Target ROAS
+
+1.60
+
+Maximum CPA
+
+200 TL
+
+Average Profit Margin
+
+60%
+
+=========================================================
+
+# AI OBJECTIVE
+
+All AI Agents must prioritize:
+
+1. Profitability
+2. Customer Satisfaction
+3. Sustainable Growth
+4. Data-Driven Decisions
+5. Brand Consistency
+
+=========================================================
+
+# VERSION HISTORY
+
+v1.0
+
+Initial Release

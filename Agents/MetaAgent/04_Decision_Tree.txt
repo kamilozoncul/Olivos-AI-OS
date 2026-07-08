@@ -1,0 +1,466 @@
+# MetaAgent Decision Tree
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-META-004
+
+Document Name:
+Decision Tree
+
+Version:
+1.0
+
+Status:
+Production
+
+Category:
+Decision Engine
+
+Owner:
+Olivos AI Operating System
+
+Dependencies:
+
+01_SystemPrompt.md
+
+02_KPI_Rules.md
+
+03_Analysis_Workflow.md
+
+==================================================================================================================
+PURPOSE
+
+Bu belge
+
+MetaAgent'in
+
+hangi durumda
+
+hangi kararı vereceğini tanımlar.
+
+MetaAgent
+
+tahmin yürütmez.
+
+Kararlarını
+
+ölçülebilir KPI'lara göre verir.
+
+==================================================================================================================
+
+INPUT
+
+↓
+
+DATA VALID
+
+↓
+
+KPI ANALYSIS
+
+↓
+
+ROOT CAUSE
+
+↓
+
+RISK ANALYSIS
+
+↓
+
+DECISION
+
+↓
+
+ACTION PLAN
+
+↓
+
+REPORT
+
+==================================================================================================================
+
+LEVEL 1
+
+DATA VALIDATION
+
+=========================================================
+
+Veri eksik mi?
+
+↓
+
+EVET
+
+↓
+
+Eksik veriyi raporla.
+
+Analizi durdur.
+
+-------------------------------
+
+HAYIR
+
+↓
+
+Level 2
+
+==================================================================================================================
+
+CAMPAIGN HEALTH
+
+=========================================================
+
+Purchase geliyor mu?
+
+↓
+
+Hayır
+
+↓
+
+Pixel kontrolü
+
+↓
+
+Conversion API
+
+↓
+
+Tracking
+
+↓
+
+Attribution
+
+-------------------------
+
+Evet
+
+↓
+
+Level 3
+
+==================================================================================================================
+
+ROAS
+
+=========================================================
+
+ROAS yükseliyor mu?
+
+↓
+
+EVET
+
+↓
+
+CPA kontrol edilir.
+
+--------------------------
+
+HAYIR
+
+↓
+
+CTR kontrol edilir.
+
+==================================================================================================================
+
+CPA
+
+=========================================================
+
+CPA hedef içinde mi?
+
+↓
+
+EVET
+
+↓
+
+Frequency kontrol edilir.
+
+-------------------------
+
+HAYIR
+
+↓
+
+CTR kontrol edilir.
+
+↓
+
+Landing Page incelenir.
+
+↓
+
+Audience incelenir.
+
+==================================================================================================================
+
+CTR
+
+=========================================================
+
+CTR düşük mü?
+
+↓
+
+EVET
+
+↓
+
+Creative
+
+↓
+
+Headline
+
+↓
+
+Hook
+
+↓
+
+CTA
+
+incelenir.
+
+-----------------------
+
+HAYIR
+
+↓
+
+Audience kontrol edilir.
+
+==================================================================================================================
+
+FREQUENCY
+
+=========================================================
+
+Frequency
+
+4 üzeri mi?
+
+↓
+
+EVET
+
+↓
+
+Creative Fatigue
+
+↓
+
+Audience Saturation
+
+↓
+
+Scaling durdurulur.
+
+↓
+
+Creative yenile.
+
+-----------------------
+
+HAYIR
+
+↓
+
+Devam et.
+
+==================================================================================================================
+
+PURCHASE
+
+=========================================================
+
+Purchase artıyor mu?
+
+↓
+
+EVET
+
+↓
+
+Scale adayı.
+
+-------------------------
+
+HAYIR
+
+↓
+
+CPA kontrol edilir.
+
+↓
+
+CTR kontrol edilir.
+
+↓
+
+Conversion Rate kontrol edilir.
+
+==================================================================================================================
+
+SCALE
+
+=========================================================
+
+Scale için minimum şartlar
+
+✔ ROAS hedef üzerinde
+
+✔ CPA hedef altında
+
+✔ Purchase artıyor
+
+✔ Frequency kabul edilebilir
+
+✔ Learning Limited değil
+
+✔ Creative yorgun değil
+
+Tüm şartlar sağlanıyorsa
+
+↓
+
+Scale
+
+==================================================================================================================
+
+PAUSE
+
+=========================================================
+
+Aşağıdaki durumlardan biri varsa
+
+Pause öner.
+
+• CPA çok yükseldi
+
+• ROAS düştü
+
+• Purchase yok
+
+• Pixel problemi
+
+• Tracking problemi
+
+==================================================================================================================
+
+STOP
+
+=========================================================
+
+Şartlar
+
+• Tracking doğru
+
+• Yeterli veri var
+
+• CPA sürdürülemez
+
+• ROAS uzun süredir düşük
+
+• Creative test edildi
+
+• Audience test edildi
+
+↓
+
+Stop
+
+==================================================================================================================
+
+OPTIMIZE
+
+=========================================================
+
+Optimize önerileri
+
+Creative değiştir
+
+Audience değiştir
+
+Placement değiştir
+
+Budget düzenle
+
+Offer geliştir
+
+Landing Page iyileştir
+
+==================================================================================================================
+
+P1
+
+Tracking
+
+---------------------
+
+P2
+
+Purchase
+
+---------------------
+
+P3
+
+CPA
+
+---------------------
+
+P4
+
+ROAS
+
+---------------------
+
+P5
+
+CTR
+
+---------------------
+
+P6
+
+Frequency
+
+==================================================================================================================
+
+MetaAgent
+
+önce problemi bulur.
+
+Sonra
+
+sebebini bulur.
+
+Sonra
+
+kanıt gösterir.
+
+Sonra
+
+çözüm önerir.
+
+Son olarak
+
+beklenen etkiyi hesaplar.
+
+==================================================================================================================
+
+v1.0
+
+İlk sürüm.
+
+=========================================================

@@ -1,0 +1,209 @@
+# Departments
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-COMP-007
+
+Document Name:
+Departments
+
+Version:
+1.0
+
+Status:
+Production
+
+Owner:
+Olivos AI Operating System
+
+=========================================================
+
+PURPOSE
+
+Bu belge Olivos AI OS içerisindeki tüm departmanları,
+görevlerini ve sorumluluklarını tanımlar.
+
+Her AI Agent yalnızca kendi departmanından sorumludur.
+
+=========================================================
+
+01
+
+CEO
+
+Responsibilities
+
+• Şirket hedeflerini belirler
+
+• KPI takibi yapar
+
+• Departman raporlarını değerlendirir
+
+• Öncelikleri belirler
+
+Managed By
+
+CEOAgent
+
+=========================================================
+
+02
+
+Marketing
+
+Responsibilities
+
+• Meta Ads
+
+• Google Ads
+
+• Kampanyalar
+
+• Funnel
+
+• Reklam bütçeleri
+
+Managed By
+
+MetaAgent
+
+GoogleAdsAgent
+
+=========================================================
+
+03
+
+Sales
+
+Responsibilities
+
+• Siparişler
+
+• Ciro
+
+• AOV
+
+• Kampanya satışları
+
+Managed By
+
+IdeaSoftAgent
+
+=========================================================
+
+04
+
+Finance
+
+Responsibilities
+
+• Karlılık
+
+• CPA
+
+• Break Even ROAS
+
+• Net Profit
+
+• Cash Flow
+
+Managed By
+
+FinanceAgent
+
+=========================================================
+
+05
+
+SEO
+
+Responsibilities
+
+• Organik trafik
+
+• Blog
+
+• Anahtar kelimeler
+
+• Teknik SEO
+
+Managed By
+
+SEOAgent
+
+=========================================================
+
+06
+
+Customer Experience
+
+Responsibilities
+
+• Müşteri yorumları
+
+• İadeler
+
+• Destek talepleri
+
+• Memnuniyet
+
+Managed By
+
+CustomerAgent
+
+=========================================================
+
+07
+
+Analytics
+
+Responsibilities
+
+• GA4
+
+• Looker Studio
+
+• Attribution
+
+• Conversion
+
+Managed By
+
+AnalyticsAgent
+
+=========================================================
+
+08
+
+Automation
+
+Responsibilities
+
+• n8n
+
+• API
+
+• Scheduler
+
+• Webhook
+
+Managed By
+
+AutomationAgent
+
+=========================================================
+
+RULES
+
+Hiçbir Agent
+
+başka bir Agent'ın görevini üstlenemez.
+
+Tüm Agent'lar
+
+CEOAgent'a rapor verir.
+
+=========================================================

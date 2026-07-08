@@ -1,0 +1,267 @@
+# MetaAgent Operational Checklists
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-META-006
+
+Document Name:
+Operational Checklists
+
+Version:
+1.0
+
+Status:
+Production
+
+Category:
+Operations
+
+Owner:
+Olivos AI Operating System
+
+==================================================================================================================
+
+DAILY META ADS CHECKLIST
+
+=========================================================
+
+## Account Health
+
+□ Reklam hesabında kısıtlama var mı?
+
+□ Ödeme problemi var mı?
+
+□ Hesap aktif mi?
+
+□ Pixel aktif mi?
+
+□ Conversion API aktif mi?
+
+□ Purchase Event geliyor mu?
+
+---------------------------------------------------------
+
+## Campaign Health
+
+□ Harcama normal mi?
+
+□ Bütçeler doğru mu?
+
+□ Learning Limited kampanya var mı?
+
+□ Learning Phase kampanya var mı?
+
+□ Kampanya reddedildi mi?
+
+---------------------------------------------------------
+
+## KPI Health
+
+□ ROAS hedefte mi?
+
+□ CPA hedefte mi?
+
+□ CTR normal mi?
+
+□ CPM yükseldi mi?
+
+□ CPC arttı mı?
+
+□ Frequency kritik seviyede mi?
+
+□ Purchase sayısı düştü mü?
+
+---------------------------------------------------------
+
+## Creative Health
+
+□ Creative yorgunluğu var mı?
+
+□ CTR düştü mü?
+
+□ Video izlenme oranı düştü mü?
+
+□ Yeni creative gerekli mi?
+
+---------------------------------------------------------
+
+## Audience Health
+
+□ Audience overlap oluştu mu?
+
+□ Audience doygunluğu var mı?
+
+□ Advantage+ düzgün çalışıyor mu?
+
+□ Remarketing kitlesi yeterli mi?
+
+---------------------------------------------------------
+
+## Tracking Health
+
+□ Purchase Event doğru geliyor mu?
+
+□ Add To Cart geliyor mu?
+
+□ Initiate Checkout geliyor mu?
+
+□ View Content geliyor mu?
+
+□ Event Match Quality yeterli mi?
+
+□ Deduplication çalışıyor mu?
+
+==================================================================================================================
+
+WEEKLY REVIEW
+
+=========================================================
+
+□ Kazanan kampanyalar belirlendi mi?
+
+□ Kapatılacak kampanyalar belirlendi mi?
+
+□ Ölçeklenecek kampanyalar seçildi mi?
+
+□ Yeni creative planlandı mı?
+
+□ Audience genişletildi mi?
+
+□ Placement analizi yapıldı mı?
+
+□ Attribution kontrol edildi mi?
+
+□ Landing Page kontrol edildi mi?
+
+□ ROAS haftalık karşılaştırıldı mı?
+
+□ CPA haftalık karşılaştırıldı mı?
+
+==================================================================================================================
+
+MONTHLY REVIEW
+
+=========================================================
+
+□ Aylık ROAS analizi
+
+□ Aylık CPA analizi
+
+□ Aylık MER analizi
+
+□ Ürün bazlı karlılık
+
+□ Creative performansı
+
+□ Audience performansı
+
+□ Funnel analizi
+
+□ Pixel sağlık raporu
+
+□ Conversion API raporu
+
+□ Reklam bütçesi optimizasyonu
+
+==================================================================================================================
+
+SCALING CHECKLIST
+
+=========================================================
+
+Scale öncesi kontrol
+
+□ ROAS hedef üzerinde
+
+□ CPA hedef altında
+
+□ Purchase artıyor
+
+□ Frequency uygun
+
+□ Creative sağlıklı
+
+□ Learning Phase tamamlandı
+
+□ Pixel sorunsuz
+
+□ Stok yeterli
+
+□ Landing Page hazır
+
+□ Kargo sorunu yok
+
+==================================================================================================================
+
+KILL CHECKLIST
+
+=========================================================
+
+Bir kampanya durdurulmadan önce
+
+□ Tracking doğru mu?
+
+□ Pixel doğru çalışıyor mu?
+
+□ Creative test edildi mi?
+
+□ Audience test edildi mi?
+
+□ Landing Page test edildi mi?
+
+□ Offer test edildi mi?
+
+□ Yeterli veri oluştu mu?
+
+==================================================================================================================
+
+EMERGENCY
+
+=========================================================
+
+Purchase aniden durduysa
+
+↓
+
+Pixel kontrol et
+
+↓
+
+Conversion API kontrol et
+
+↓
+
+Website çalışıyor mu?
+
+↓
+
+Checkout çalışıyor mu?
+
+↓
+
+Payment sistemi çalışıyor mu?
+
+↓
+
+IdeaSoft sipariş alıyor mu?
+
+↓
+
+Meta Event Manager kontrol et
+
+↓
+
+Son değişiklikleri incele
+
+==================================================================================================================
+
+VERSION HISTORY
+
+v1.0
+
+İlk sürüm
+
+=========================================================

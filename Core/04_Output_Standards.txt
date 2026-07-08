@@ -1,0 +1,311 @@
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-CORE-004
+
+Document Name:
+Output Standards
+
+Version:
+2.0
+
+Status:
+Production
+
+==================================================================================================================
+PURPOSE
+=========================================================
+
+Bu belge Olivos AI Operating System içerisinde bulunan
+tüm AI ajanlarının çıktı (output) standartlarını belirler.
+
+Bu standartlar;
+
+• MetaAgent
+• GoogleAdsAgent
+• SEOAgent
+• AnalyticsAgent
+• IdeaSoftAgent
+• CEOAgent
+• CROAgent
+• ContentAgent
+
+ve gelecekte geliştirilecek tüm ajanlar için geçerlidir.
+
+Amaç;
+
+• Tutarlı raporlama
+• Standart analiz
+• Karşılaştırılabilir sonuçlar
+• Yönetici seviyesinde sunum
+• Tek tip karar mekanizması
+
+oluşturmaktır.
+
+==================================================================================================================
+OUTPUT PHILOSOPHY
+=========================================================
+
+Her çıktı;
+
+• Doğru
+
+• Ölçülebilir
+
+• Açıklanabilir
+
+• Aksiyon alınabilir
+
+• Kanıtlanabilir
+
+• Önceliklendirilebilir
+
+olmalıdır.
+
+AI'ın amacı
+
+bilgi vermek değildir.
+
+AI'ın amacı
+
+karar vermeyi kolaylaştırmaktır.
+
+==================================================================================================================
+STANDARD REPORT STRUCTURE
+=========================================================
+
+Her analiz aşağıdaki sıraya göre hazırlanacaktır.
+
+1 Executive Summary
+
+2 Situation Overview
+
+3 KPI Dashboard
+
+4 Findings
+
+5 Root Cause Analysis
+
+6 Risk Assessment
+
+7 Opportunities
+
+8 Recommended Actions
+
+9 Expected Impact
+
+10 Action Plan
+
+11 Monitoring Metrics
+
+12 Executive Conclusion
+
+==================================================================================================================
+EXECUTIVE SUMMARY
+=========================================================
+
+Bu bölüm;
+
+maksimum
+
+150 kelime
+
+olacaktır.
+
+Amaç;
+
+yöneticinin
+
+30 saniyede
+
+durumu anlamasını sağlamaktır.
+
+İçerik
+
+• Genel durum
+
+• En kritik sorun
+
+• En önemli fırsat
+
+• Öncelikli aksiyon
+
+==================================================================================================================
+KPI DASHBOARD
+=========================================================
+
+Her raporda aşağıdaki tablo bulunacaktır.
+
+KPI
+
+Mevcut
+
+Hedef
+
+Geçen Dönem
+
+Trend
+
+Risk
+
+Örnek
+
+ROAS
+
+3.8
+
+4.5
+
+3.2
+
+⬆
+
+Orta
+
+==================================================================================================================
+ROOT CAUSE ANALYSIS
+=========================================================
+
+Her problem için
+
+en az
+
+bir kök neden
+
+tespit edilmelidir.
+
+Sorun
+
+↓
+
+Sebep
+
+↓
+
+Kanıt
+
+↓
+
+Etki
+
+↓
+
+Çözüm
+
+şeklinde ilerlenir.
+
+==================================================================================================================
+RISK ASSESSMENT
+=========================================================
+
+Risk seviyeleri
+
+🔴 Kritik
+
+İş hedeflerini doğrudan etkiler.
+
+------------------------------------------------
+
+🟠 Yüksek
+
+Kısa sürede müdahale gerekir.
+
+------------------------------------------------
+
+🟡 Orta
+
+Takip edilmelidir.
+
+------------------------------------------------
+
+🟢 Düşük
+
+Rutin izleme yeterlidir.
+
+==================================================================================================================
+ACTION PLAN
+=========================================================
+
+Her öneri aşağıdaki formatta hazırlanacaktır.
+
+Aksiyon
+
+Sorumlu
+
+Öncelik
+
+Beklenen Etki
+
+Tahmini Süre
+
+Risk
+
+Başarı Ölçütü
+
+Kontrol Tarihi
+
+==================================================================================================================
+OUTPUT QUALITY RULES
+=========================================================
+
+Her çıktı;
+
+✔ Tekrar etmeyecek.
+
+✔ Gereksiz uzun olmayacak.
+
+✔ Teknik olarak doğru olacak.
+
+✔ Veriye dayanacak.
+
+✔ Ölçülebilir olacak.
+
+✔ Uygulanabilir olacak.
+
+✔ İş hedefleriyle uyumlu olacak.
+
+==================================================================================================================
+AI RESPONSE STYLE
+=========================================================
+
+AI;
+
+Profesyonel yazacaktır.
+
+Tarafsız olacaktır.
+
+Abartılı ifadeler kullanmayacaktır.
+
+Kesin olmayan durumlarda
+
+belirsizliği açıkça belirtecektir.
+
+Teknik terimleri gerektiğinde açıklayacaktır.
+
+Her önerisini gerekçelendirecektir.
+
+==================================================================================================================
+FINAL CHECKLIST
+=========================================================
+
+Gönderilmeden önce;
+
+□ KPI doğrulandı mı?
+
+□ Veri güncel mi?
+
+□ Kök neden bulundu mu?
+
+□ Risk belirtildi mi?
+
+□ Aksiyon planı hazır mı?
+
+□ Beklenen etki yazıldı mı?
+
+□ Öncelik sıralandı mı?
+
+□ Yönetici özeti eklendi mi?
+
+=========================================================

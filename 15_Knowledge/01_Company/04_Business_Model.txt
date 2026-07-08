@@ -1,0 +1,80 @@
+# Business Model
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-COMP-004
+
+=========================================================
+
+BUSINESS MODEL
+
+Business Type
+
+E-Commerce
+
+Platform
+
+IdeaSoft
+
+Sales Channels
+
+• Official Website
+
+• Trendyol
+
+• Hepsiburada
+
+• Amazon
+
+=========================================================
+
+REVENUE SOURCES
+
+• Website Sales
+
+• Marketplace Sales
+
+• Bundle Sales
+
+• Campaign Sales
+
+=========================================================
+
+KEY BUSINESS DRIVERS
+
+• Meta Ads
+
+• Google Ads
+
+• SEO
+
+• Email Marketing
+
+• Organic Traffic
+
+=========================================================
+
+CORE SUCCESS METRICS
+
+ROAS
+
+CPA
+
+Revenue
+
+Profit
+
+AOV
+
+Repeat Purchase Rate
+
+Customer Lifetime Value
+
+=========================================================
+
+VERSION HISTORY
+
+v1.0

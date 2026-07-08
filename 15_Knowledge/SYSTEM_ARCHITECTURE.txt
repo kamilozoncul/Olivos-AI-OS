@@ -1,0 +1,207 @@
+====================================================
+
+OAOS
+
+Olivos AI Operating System
+
+SYSTEM ARCHITECTURE
+
+Versiyon : 1.0
+
+====================================================
+
+AMAÇ
+
+OAOS;
+
+Olivos firmasının
+
+• Dijital Pazarlama
+
+• Reklam
+
+• SEO
+
+• Operasyon
+
+• E-Ticaret
+
+• İçerik
+
+• Analiz
+
+• Raporlama
+
+süreçlerini
+
+Yapay Zeka destekli hale getirmek için geliştirilmektedir.
+
+====================================================
+
+ANA MODÜLLER
+
+1 Marka Yönetimi
+
+2 Ürün Yönetimi
+
+3 Müşteri Yönetimi
+
+4 Meta Ads
+
+5 Google Ads
+
+6 SEO
+
+7 Blog
+
+8 CRO
+
+9 Rakip Analizi
+
+10 IdeaSoft
+
+11 Analytics
+
+12 Dashboard
+
+13 AI Reporting
+
+14 SOP
+
+15 Knowledge Base
+
+====================================================
+
+ANA YAPAY ZEKA AJANLARI
+
+CEO Agent
+
+Marketing Agent
+
+Meta Agent
+
+Google Ads Agent
+
+SEO Agent
+
+Content Agent
+
+Blog Agent
+
+CRO Agent
+
+IdeaSoft Agent
+
+Analytics Agent
+
+Reporting Agent
+
+Automation Agent
+
+Customer Agent
+
+Product Agent
+
+Competitor Agent
+
+====================================================
+
+TEMEL PRENSİPLER
+
+Veriye Dayalı Karar
+
+Önce Analiz
+
+Sonra Öneri
+
+Sonra Aksiyon
+
+Her öneri ölçülebilir olmalıdır.
+
+====================================================
+
+AI KURALLARI
+
+AI hiçbir zaman varsayım yapmayacaktır.
+
+Yetersiz veri varsa bunu belirtecektir.
+
+Her öneriyi KPI ile destekleyecektir.
+
+Tüm öneriler
+
+ROI
+
+ROAS
+
+CPA
+
+AOV
+
+LTV
+
+üzerinden değerlendirilecektir.
+
+====================================================
+
+DOSYA YAPISI
+
+01 Brand
+
+02 Products
+
+03 Customers
+
+04 Marketing
+
+05 SEO
+
+06 Meta
+
+07 Google
+
+08 IdeaSoft
+
+09 Analytics
+
+10 SOP
+
+11 Prompts
+
+12 Reports
+
+13 Automations
+
+14 Dashboard
+
+15 Knowledge
+
+====================================================
+
+GELECEK HEDEFLER
+
+Meta API
+
+Google Ads API
+
+GA4
+
+Search Console
+
+IdeaSoft API
+
+OpenAI
+
+n8n
+
+WhatsApp
+
+Slack
+
+Mail
+
+Dashboard
+
+tam entegre çalışacaktır.
+
+====================================================

@@ -1,0 +1,302 @@
+=========================================================
+KPI RULES
+
+Meta Decision Engine
+
+Version 1.0
+
+=========================================================
+
+AMAÇ
+
+Bu belge MetaAgent'in KPI yorumlama motorudur.
+
+Her karar ölçülebilir verilere dayanmalıdır.
+
+MetaAgent hiçbir zaman tek metrik üzerinden karar vermez.
+
+En az üç KPI birlikte değerlendirilmelidir.
+
+=========================================================
+
+KPI ÖNCELİK SIRASI
+
+1. ROAS
+
+2. CPA
+
+3. Purchase
+
+4. Conversion Rate
+
+5. AOV
+
+6. CTR
+
+7. CPC
+
+8. CPM
+
+9. Frequency
+
+10. Reach
+
+=========================================================
+
+KURAL
+
+Her analiz aşağıdaki sırayla yapılacaktır.
+
+1. Satış
+
+↓
+
+2. Karlılık
+
+↓
+
+3. CPA
+
+↓
+
+4. ROAS
+
+↓
+
+5. Funnel
+
+↓
+
+6. Reklam Kalitesi
+
+↓
+
+7. Audience
+
+↓
+
+8. Kreatif
+
+↓
+
+9. Landing Page
+
+↓
+
+10. Teknik Kontroller
+
+==================================================================================================================
+
+CTR ANALYSIS
+
+=========================================================
+
+IF
+
+CTR < %0.80
+
+THEN
+
+Kreatif zayıf olabilir.
+
+Hook analiz edilmeli.
+
+Headline analiz edilmeli.
+
+Primary Text analiz edilmeli.
+
+Audience tekrar değerlendirilmeli.
+
+---------------------------------------------------------
+
+IF
+
+CTR %0.80 - %1.50
+
+THEN
+
+Ortalama performans.
+
+Yeni kreatif testleri öner.
+
+---------------------------------------------------------
+
+IF
+
+CTR %1.50 - %2.50
+
+THEN
+
+İyi performans.
+
+CPA ve ROAS birlikte analiz edilmeli.
+
+---------------------------------------------------------
+
+IF
+
+CTR > %2.50
+
+THEN
+
+Kreatif güçlü.
+
+Landing Page performansı incelenmeli.
+
+---------------------------------------------------------
+
+IF
+
+CTR yüksek
+
+AND
+
+CPA yüksek
+
+THEN
+
+Sorun reklam değildir.
+
+Landing Page
+
+Checkout
+
+Offer
+
+analiz edilmelidir.
+
+---------------------------------------------------------
+
+IF
+
+CTR düşük
+
+AND
+
+CPM yüksek
+
+THEN
+
+Audience çok dar olabilir.
+
+Audience genişlet.
+
+---------------------------------------------------------
+
+IF
+
+CTR düşük
+
+AND
+
+Frequency yüksek
+
+THEN
+
+Creative Fatigue oluşmuş olabilir.
+
+Yeni kreatif hazırlanmalıdır.
+
+==================================================================================================================
+
+CPC ANALYSIS
+
+=========================================================
+
+IF
+
+CPC artıyor
+
+AND
+
+CTR düşüyor
+
+THEN
+
+Kreatif kalitesi düşmüş olabilir.
+
+---------------------------------------------------------
+
+IF
+
+CPC yüksek
+
+AND
+
+CTR yüksek
+
+THEN
+
+Audience rekabeti yüksek olabilir.
+
+---------------------------------------------------------
+
+IF
+
+CPC düşük
+
+AND
+
+Purchase düşük
+
+THEN
+
+Trafik kalitesi analiz edilmelidir.
+
+---------------------------------------------------------
+
+IF
+
+CPC düşüyor
+
+AND
+
+ROAS artıyor
+
+THEN
+
+Mevcut yapı korunmalıdır.
+
+==================================================================================================================
+
+CPM ANALYSIS
+
+=========================================================
+
+IF
+
+CPM yükseliyor
+
+CTR sabit
+
+THEN
+
+Rekabet artmış olabilir.
+
+---------------------------------------------------------
+
+IF
+
+CPM yüksek
+
+CTR düşük
+
+THEN
+
+Audience yeniden değerlendirilmeli.
+
+---------------------------------------------------------
+
+IF
+
+CPM düşük
+
+CTR yüksek
+
+THEN
+
+Kreatif avantajlı durumda.
+
+Ölçekleme değerlendirilebilir.
+
+=========================================================

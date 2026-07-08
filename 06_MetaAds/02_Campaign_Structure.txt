@@ -1,0 +1,1476 @@
+=========================================================
+CAMPAIGN STRUCTURE
+
+Versiyon : 1.0
+
+Modül : Meta Ads
+
+=========================================================
+
+AMAÇ
+
+Bu belge Meta reklam hesaplarında kullanılacak kampanya yapısını,
+kampanya türlerini, bütçe yönetimini ve optimizasyon prensiplerini açıklar.
+
+MetaAgent bu dosyayı kullanarak doğru kampanya yapısını önerir.
+
+=========================================================
+
+İÇİNDEKİLER
+
+1 Kampanya Yapısı
+
+2 Kampanya Seviyeleri
+
+3 Campaign Objective
+
+4 CBO
+
+5 ABO
+
+6 Advantage+ Shopping Campaign
+
+7 Testing Campaign
+
+8 Scaling Campaign
+
+9 Evergreen Campaign
+
+10 Remarketing Campaign
+
+11 Kampanya İsimlendirme Standardı
+
+12 Kampanya Oluşturma Kontrol Listesi
+
+13 Kampanya Karar Kuralları
+
+14 Olivos Standartları
+
+=========================================================
+
+1. KAMPANYA YAPISI
+
+Meta reklam hesabı üç seviyeden oluşur.
+
+Kampanya
+
+↓
+
+Reklam Seti
+
+↓
+
+Reklam
+
+Bu yapı hiçbir zaman karıştırılmamalıdır.
+
+=========================================================
+
+KAMPANYA
+
+Kampanya;
+
+amacın belirlendiği seviyedir.
+
+Burada;
+
+• Objective
+
+• Campaign Budget
+
+• Advantage Campaign Budget
+
+gibi ayarlar bulunur.
+
+=========================================================
+
+REKLAM SETİ
+
+Reklam Seti seviyesinde;
+
+Hedef Kitle
+
+Lokasyon
+
+Yaş
+
+Cinsiyet
+
+Placement
+
+Pixel
+
+Conversion Event
+
+Optimization
+
+Schedule
+
+belirlenir.
+
+=========================================================
+
+REKLAM
+
+Bu seviyede;
+
+Video
+
+Görsel
+
+Headline
+
+Primary Text
+
+Description
+
+CTA
+
+URL
+
+oluşturulur.
+
+=========================================================
+
+AI KURALI
+
+Analiz sırası her zaman şöyledir.
+
+Kampanya
+
+↓
+
+Reklam Seti
+
+↓
+
+Reklam
+
+Hiçbir zaman doğrudan reklama bakarak karar verilmez.
+
+=========================================================
+
+2. CAMPAIGN OBJECTIVE
+
+Meta'nın hedefleri şunlardır.
+
+Sales
+
+Leads
+
+Engagement
+
+Traffic
+
+Awareness
+
+App Promotion
+
+=========================================================
+
+OLIVOS KURALI
+
+E-ticaret hesaplarında öncelikli hedef
+
+Sales
+
+olacaktır.
+
+Traffic kampanyaları yalnızca özel ihtiyaçlarda kullanılacaktır.
+
+=========================================================
+
+3. KAMPANYA TÜRLERİ
+
+Olivos sisteminde kullanılacak kampanya türleri
+
+1
+
+Testing
+
+Yeni kreatif testleri.
+
+----------------------------------
+
+2
+
+Scaling
+
+Kazanan reklamlar.
+
+----------------------------------
+
+3
+
+Evergreen
+
+Sürekli çalışan reklamlar.
+
+----------------------------------
+
+4
+
+Remarketing
+
+Sepeti terk edenler
+
+Web sitesi ziyaretçileri
+
+Instagram etkileşimi
+
+Facebook etkileşimi
+
+Müşteri listeleri
+
+=========================================================
+
+AI KURALI
+
+MetaAgent önce kampanyanın hangi kategoriye ait olduğunu belirler.
+
+Testing
+
+Scaling
+
+Evergreen
+
+Remarketing
+
+Daha sonra ilgili karar kurallarını uygular.
+
+==================================================================================================================
+
+4. CBO
+
+Campaign Budget Optimization
+
+=========================================================
+
+Tanım
+
+CBO sisteminde bütçe kampanya seviyesinde yönetilir.
+
+Meta bütçeyi performansı iyi olan reklam setlerine otomatik dağıtır.
+
+=========================================================
+
+Avantajları
+
+Daha az manuel yönetim.
+
+Meta optimizasyonundan daha fazla faydalanılır.
+
+Ölçekleme kolaydır.
+
+Büyük bütçelerde daha verimlidir.
+
+=========================================================
+
+Dezavantajları
+
+Yeni reklam setleri yeterli bütçe alamayabilir.
+
+Küçük testlerde performans düşebilir.
+
+Meta bazen bütçeyi tek reklam setinde toplayabilir.
+
+=========================================================
+
+Ne zaman kullanılır?
+
+Kazanan reklamlar bulunduğunda.
+
+Yüksek bütçelerde.
+
+Olgun Pixel verisi olduğunda.
+
+Çok sayıda reklam seti bulunduğunda.
+
+=========================================================
+
+Ne zaman kullanılmaz?
+
+Yeni kreatif testlerinde.
+
+Yeni hedef kitle testlerinde.
+
+Çok düşük bütçelerde.
+
+=========================================================
+
+AI KARAR KURALI
+
+Eğer;
+
+Pixel güçlü
+
++
+
+Kampanya olgun
+
++
+
+Yeterli veri var
+
+ise
+
+CBO öner.
+
+Aksi halde
+
+ABO öner.
+
+==================================================================================================================
+
+5. ABO
+
+Ad Set Budget Optimization
+
+=========================================================
+
+TANIM
+
+ABO (Ad Set Budget Optimization), bütçenin kampanya seviyesinde değil,
+her reklam seti (Ad Set) seviyesinde ayrı ayrı yönetildiği kampanya yapısıdır.
+
+Her reklam seti kendi belirlenen bütçesiyle yayınlanır.
+
+Meta bütçeyi reklam setleri arasında otomatik olarak dağıtmaz.
+
+Bu yapı reklam setlerinin performansını bağımsız olarak ölçmeyi sağlar.
+
+=========================================================
+
+ABO'NUN TEMEL AMACI
+
+• Hedef kitleleri ayrı ayrı test etmek
+
+• Kreatifleri ayrı ayrı test etmek
+
+• Bütçe kontrolünü tamamen reklam yöneticisinde tutmak
+
+• Meta'nın erken optimizasyon yapmasını engellemek
+
+• Sağlıklı test sonuçları elde etmek
+
+=========================================================
+
+ABO NASIL ÇALIŞIR?
+
+Örnek:
+
+Kampanya
+
+↓
+
+3 Reklam Seti
+
+↓
+
+Her reklam seti günlük 500 TL
+
+Toplam günlük bütçe
+
+1500 TL
+
+Meta;
+
+Reklam Seti A'nın bütçesini
+
+Reklam Seti B'ye aktaramaz.
+
+Her reklam seti yalnızca kendi bütçesini kullanır.
+
+=========================================================
+
+ABO'NUN AVANTAJLARI
+
+• Testler daha kontrollü yapılır.
+
+• Her hedef kitle eşit bütçe alır.
+
+• Kreatif karşılaştırmaları daha doğru olur.
+
+• Performans farkları daha net görülür.
+
+• Öğrenme süreci daha sağlıklı analiz edilir.
+
+• Kazanan reklam seti kolay tespit edilir.
+
+=========================================================
+
+ABO'NUN DEZAVANTAJLARI
+
+• Manuel yönetim gerektirir.
+
+• Çok fazla reklam seti olduğunda yönetimi zorlaşır.
+
+• Büyük hesaplarda zaman alabilir.
+
+• Sürekli optimizasyon ister.
+
+=========================================================
+
+OLIVOS KULLANIM KURALI
+
+ABO aşağıdaki durumlarda tercih edilir.
+
+✓ Yeni ürün lansmanı
+
+✓ Yeni kreatif testi
+
+✓ Yeni hedef kitle testi
+
+✓ Yeni teklif (Offer) testi
+
+✓ Yeni Hook testi
+
+✓ Landing Page testi
+
+✓ Pixel yeni veri topluyorsa
+
+✓ Küçük bütçeli test kampanyaları
+
+=========================================================
+
+ABO KULLANILMAMASI GEREKEN DURUMLAR
+
+• Kazanan kampanyaları ölçeklerken
+
+• Büyük bütçeli sürekli kampanyalarda
+
+• Çok olgun Pixel verisinde
+
+• Meta'nın otomatik optimizasyonundan faydalanmak istendiğinde
+
+=========================================================
+
+AI KARAR KURALI
+
+Eğer amaç;
+
+Test yapmak ise
+
+↓
+
+ABO öner.
+
+Eğer amaç;
+
+Ölçeklemek ise
+
+↓
+
+CBO öner.
+
+=========================================================
+
+TEST KAMPANYASI STANDARTLARI
+
+Bir test kampanyasında;
+
+1 değişken test edilir.
+
+Örneğin;
+
+✓ Hedef Kitle
+
+veya
+
+✓ Kreatif
+
+veya
+
+✓ Reklam Metni
+
+veya
+
+✓ Offer
+
+Aynı anda birden fazla değişken test edilmez.
+
+=========================================================
+
+DOĞRU TEST ÖRNEĞİ
+
+Kreatif aynı
+
+↓
+
+Audience değişiyor
+
+veya
+
+Audience aynı
+
+↓
+
+Kreatif değişiyor
+
+=========================================================
+
+YANLIŞ TEST ÖRNEĞİ
+
+Audience değişiyor
+
++
+
+Video değişiyor
+
++
+
+Başlık değişiyor
+
++
+
+CTA değişiyor
+
+Sonuç:
+
+Hangi değişkenin performansı etkilediği anlaşılamaz.
+
+=========================================================
+
+REKLAM SETİ SAYISI
+
+Önerilen başlangıç:
+
+3 - 5 reklam seti
+
+Her reklam setinde
+
+1 veya 2 reklam
+
+=========================================================
+
+REKLAM SAYISI
+
+Önerilen:
+
+1–3 reklam
+
+Daha fazla reklam Learning Phase'i uzatabilir.
+
+=========================================================
+
+GÜNLÜK BÜTÇE
+
+Her reklam seti;
+
+Optimizasyon olayına göre yeterli bütçe almalıdır.
+
+Çok düşük bütçeler anlamlı veri üretmeyebilir.
+
+Bütçe, beklenen dönüşüm maliyetine göre planlanmalıdır.
+
+=========================================================
+
+LEARNING PHASE
+
+ABO kampanyalarında Learning Phase yakından takip edilmelidir.
+
+Learning tamamlanmadan;
+
+• Bütçe değiştirilmemeli
+
+• Audience değiştirilmemeli
+
+• Kreatif değiştirilmemeli
+
+• Event değiştirilmemeli
+
+=========================================================
+
+ABO OPTİMİZASYON KONTROL LİSTESİ
+
+□ Pixel doğru çalışıyor mu?
+
+□ Purchase Event geliyor mu?
+
+□ Attribution doğru mu?
+
+□ Audience çakışması var mı?
+
+□ Placement doğru mu?
+
+□ Kreatif onaylandı mı?
+
+□ Landing Page hızlı mı?
+
+□ UTM etiketleri doğru mu?
+
+□ Conversion API aktif mi?
+
+=========================================================
+
+SIK YAPILAN HATALAR
+
+❌ Her gün bütçe değiştirmek
+
+❌ Learning devam ederken reklam düzenlemek
+
+❌ Aynı anda çok fazla değişken test etmek
+
+❌ Çok düşük bütçe ile test yapmak
+
+❌ Kazanan reklamı erken kapatmak
+
+❌ Sadece CTR'a bakarak karar vermek
+
+❌ ROAS oluşmadan kampanyayı sonlandırmak
+
+=========================================================
+
+AI KARAR MOTORU
+
+Eğer;
+
+CTR düşük
+
+↓
+
+Önce kreatifi incele.
+
+------------------------------------------------
+
+CTR yüksek
+
+CPC yüksek
+
+↓
+
+Audience ve rekabeti incele.
+
+------------------------------------------------
+
+CTR yüksek
+
+CPA yüksek
+
+↓
+
+Landing Page
+
+Checkout
+
+Pixel
+
+Purchase Event
+
+analiz edilir.
+
+------------------------------------------------
+
+ROAS düşük
+
+↓
+
+Funnel tamamen incelenir.
+
+=========================================================
+
+OLIVOS STANDARDI
+
+Yeni ürünlerde ilk kampanya yapısı:
+
+• Sales Objective
+
+• ABO
+
+• 3 Audience
+
+• Her Audience için 2 Kreatif
+
+• Purchase Event
+
+• Advantage+ Placements
+
+• Conversion API Aktif
+
+• Pixel Sağlıklı
+
+Bu yapı test tamamlanıncaya kadar korunmalıdır.
+
+==================================================================================================================
+
+6. ADVANTAGE+ CAMPAIGN
+
+=========================================================
+
+TANIM
+
+Advantage+ Campaign, Meta'nın makine öğrenmesi ve yapay zekâ algoritmalarını
+maksimum düzeyde kullandığı otomatik kampanya yapısıdır.
+
+Sistem;
+
+• Hedef kitle
+• Yerleşimler
+• Reklam dağılımı
+• Bütçe optimizasyonu
+
+gibi birçok kararı otomatik olarak optimize eder.
+
+Temel amaç;
+
+En düşük maliyetle en yüksek dönüşümü elde etmektir.
+
+=========================================================
+
+ADVANTAGE+ İÇERİĞİ
+
+Advantage+ Shopping Campaign
+
+Advantage+ Audience
+
+Advantage+ Placements
+
+Advantage Campaign Budget
+
+Dynamic Creative
+
+Catalog Optimization
+
+=========================================================
+
+ADVANTAGE+ SHOPPING CAMPAIGN
+
+Tanım
+
+E-ticaret işletmeleri için geliştirilmiş otomatik satış kampanyasıdır.
+
+Meta;
+
+müşterileri,
+
+ürünleri,
+
+kreatifleri,
+
+hedef kitleleri,
+
+ve teklifleri
+
+otomatik olarak optimize eder.
+
+=========================================================
+
+AVANTAJLARI
+
+• Daha hızlı optimizasyon
+
+• Daha geniş hedef kitle
+
+• Daha fazla makine öğrenmesi
+
+• Daha az manuel işlem
+
+• Büyük hesaplarda yüksek performans
+
+• Dinamik optimizasyon
+
+=========================================================
+
+DEZAVANTAJLARI
+
+• Kontrol daha azdır.
+
+• Test yapmak zordur.
+
+• Küçük hesaplarda bazen tutarsız sonuçlar verebilir.
+
+• Öğrenme sürecinde neden-sonuç ilişkisini anlamak zorlaşabilir.
+
+=========================================================
+
+NE ZAMAN KULLANILMALI?
+
+✓ Pixel güçlü ise
+
+✓ En az birkaç aylık dönüşüm verisi varsa
+
+✓ Düzenli satış gerçekleşiyorsa
+
+✓ Birden fazla başarılı kreatif varsa
+
+✓ Ölçekleme hedefleniyorsa
+
+✓ Geniş hedef kitle kullanılacaksa
+
+=========================================================
+
+NE ZAMAN KULLANILMAMALI?
+
+✗ Yeni açılmış hesaplarda
+
+✗ Pixel yeterince veri toplamamışsa
+
+✗ Yeni ürün testlerinde
+
+✗ Yeni kreatif testlerinde
+
+✗ Yeni hedef kitle testlerinde
+
+✗ Çok düşük bütçelerde
+
+=========================================================
+
+OLIVOS STANDARDI
+
+Advantage+ yalnızca;
+
+Kazanan ürünlerde
+
+ve
+
+ölçekleme aşamasında
+
+kullanılır.
+
+İlk test kampanyaları
+
+ABO
+
+ile yapılacaktır.
+
+=========================================================
+
+AI KARAR KURALI
+
+Eğer;
+
+Pixel Olgun
+
++
+
+Son 30 günde yeterli Purchase Event
+
++
+
+Kazanan kreatif mevcut
+
+↓
+
+Advantage+ öner.
+
+Aksi durumda
+
+↓
+
+ABO ile test yapılmasını öner.
+
+=========================================================
+
+ADVANTAGE+ AUDIENCE
+
+Tanım
+
+Meta'nın geniş hedef kitle yaklaşımıdır.
+
+Sistem başlangıç hedef kitlesini referans alır ancak
+daha iyi performans gördüğü kişilere otomatik olarak genişler.
+
+=========================================================
+
+HEDEF
+
+En yüksek dönüşüm ihtimali olan kullanıcıları bulmaktır.
+
+=========================================================
+
+AVANTAJLARI
+
+• Daha fazla ölçeklenebilirlik
+
+• Daha düşük CPA potansiyeli
+
+• Daha geniş erişim
+
+• Makine öğrenmesini destekler
+
+=========================================================
+
+RİSKLERİ
+
+• Çok dar niş ürünlerde verimsiz olabilir.
+
+• Yeni Pixel hesaplarında yanlış öğrenme riski vardır.
+
+=========================================================
+
+OLIVOS KULLANIM KURALI
+
+Advantage+ Audience;
+
+Test kampanyalarında kullanılmaz.
+
+Ölçekleme kampanyalarında değerlendirilir.
+
+=========================================================
+
+ADVANTAGE+ PLACEMENTS
+
+Tanım
+
+Meta'nın reklamı;
+
+Instagram,
+
+Facebook,
+
+Messenger,
+
+Audience Network
+
+arasında otomatik dağıtmasını sağlar.
+
+=========================================================
+
+ÖNERİ
+
+Varsayılan olarak Advantage+ Placements kullanılmalıdır.
+
+Ancak;
+
+performans analizleri placement bazında düzenli yapılmalıdır.
+
+=========================================================
+
+ADVANTAGE CAMPAIGN BUDGET
+
+Tanım
+
+Kampanya bütçesini Meta'nın otomatik yönetmesini sağlar.
+
+Bu yapı CBO mantığı ile çalışır.
+
+=========================================================
+
+AI KARAR MOTORU
+
+Eğer;
+
+ROAS yüksek
+
+↓
+
+Frequency normal
+
+↓
+
+CPA stabil
+
+↓
+
+Bütçe artırılabilir.
+
+-----------------------------------------------
+
+ROAS yüksek
+
+Frequency çok yüksek
+
+↓
+
+Yeni kreatif öner.
+
+-----------------------------------------------
+
+CPA yükseliyor
+
+↓
+
+Audience doygunluğu kontrol edilir.
+
+-----------------------------------------------
+
+CTR düşüyor
+
+↓
+
+Kreatif yenilenmesi önerilir.
+
+-----------------------------------------------
+
+ROAS düşüyor
+
+↓
+
+Landing Page
+
+Checkout
+
+Pixel
+
+Offer
+
+analiz edilir.
+
+=========================================================
+
+ADVANTAGE+ KONTROL LİSTESİ
+
+□ Pixel sağlıklı mı?
+
+□ Purchase Event geliyor mu?
+
+□ Conversion API aktif mi?
+
+□ Domain doğrulandı mı?
+
+□ Attribution doğru mu?
+
+□ Kreatif çeşitliliği yeterli mi?
+
+□ Landing Page mobil uyumlu mu?
+
+□ Site hızı yeterli mi?
+
+□ Ürün stokta mı?
+
+□ Ürün fiyatı güncel mi?
+
+=========================================================
+
+SIK YAPILAN HATALAR
+
+❌ Advantage+'ı test kampanyası gibi kullanmak
+
+❌ Yetersiz Pixel verisiyle Advantage+ başlatmak
+
+❌ Sürekli bütçe değiştirmek
+
+❌ Learning Phase devam ederken düzenleme yapmak
+
+❌ Tek kreatifle ölçekleme yapmak
+
+❌ Düşük kaliteli ürün sayfası ile kampanya açmak
+
+=========================================================
+
+AI SONUÇ KURALI
+
+MetaAgent hiçbir zaman yalnızca "Advantage+ kullan" önerisi vermez.
+
+Önce aşağıdaki şartları kontrol eder:
+
+1. Pixel kalitesi
+
+2. Purchase hacmi
+
+3. CPA
+
+4. ROAS
+
+5. Frequency
+
+6. CTR
+
+7. Kreatif performansı
+
+8. Landing Page
+
+9. Checkout oranı
+
+10. Ürün stok durumu
+
+Bu kriterler olumluysa Advantage+ önerilir.
+
+==================================================================================================================
+
+7. TESTING CAMPAIGN FRAMEWORK
+
+Olivos AI Standardı
+
+=========================================================
+
+AMAÇ
+
+Testing Campaign Framework, yeni fikirleri minimum maliyetle,
+ölçülebilir şekilde test etmek için kullanılan standart süreçtir.
+
+Bu sistemin amacı;
+
+• Kazanan kreatifleri bulmak
+• Kazanan hedef kitleleri bulmak
+• Kazanan teklifleri bulmak
+• Kazanan reklam metinlerini bulmak
+• En düşük CPA ile en yüksek ROAS sağlayan kombinasyonu keşfetmektir.
+
+=========================================================
+
+TEST FELSEFESİ
+
+Meta reklamcılığında amaç;
+
+"En iyi reklamı bulmak"
+
+değil,
+
+"Sürekli daha iyi reklamlar keşfetmektir."
+
+Her test yeni bir öğrenmedir.
+
+Başarısız test de değerli bir veridir.
+
+=========================================================
+
+TEST PRENSİPLERİ
+
+Bir testte yalnızca
+
+1 değişken
+
+değiştirilir.
+
+Diğer tüm değişkenler sabit tutulur.
+
+=========================================================
+
+TEST EDİLEBİLECEK DEĞİŞKENLER
+
+Kreatif
+
+Hook
+
+Başlık
+
+Primary Text
+
+CTA
+
+Offer
+
+Landing Page
+
+Audience
+
+Placement
+
+Video Süresi
+
+Thumbnail
+
+Format
+
+=========================================================
+
+DOĞRU TEST
+
+Audience aynı
+
+↓
+
+Video değişiyor
+
+VEYA
+
+Video aynı
+
+↓
+
+Audience değişiyor
+
+=========================================================
+
+YANLIŞ TEST
+
+Audience değişiyor
+
++
+
+Video değişiyor
+
++
+
+Headline değişiyor
+
++
+
+Offer değişiyor
+
++
+
+Landing Page değişiyor
+
+Bu testten güvenilir sonuç alınamaz.
+
+=========================================================
+
+TEST SIRALAMASI
+
+1. Kreatif
+
+2. Hook
+
+3. Başlık
+
+4. Primary Text
+
+5. Offer
+
+6. Audience
+
+7. Landing Page
+
+8. CTA
+
+9. Placement
+
+10. Bütçe
+
+=========================================================
+
+OLIVOS STANDARDI
+
+Yeni ürünlerde önce kreatif test edilir.
+
+Kazanan kreatif bulunduktan sonra;
+
+Audience test edilir.
+
+Audience kazandıktan sonra;
+
+Offer test edilir.
+
+Offer kazandıktan sonra;
+
+Landing Page optimize edilir.
+
+En son bütçe artırılır.
+
+=========================================================
+
+TEST MATRİSİ
+
+Creative A
+
+↓
+
+Audience A
+
+↓
+
+Offer A
+
+--------------------
+
+Creative A
+
+↓
+
+Audience B
+
+↓
+
+Offer A
+
+--------------------
+
+Creative B
+
+↓
+
+Audience A
+
+↓
+
+Offer A
+
+--------------------
+
+Creative B
+
+↓
+
+Audience B
+
+↓
+
+Offer A
+
+=========================================================
+
+TEST KATEGORİLERİ
+
+Creative Test
+
+Audience Test
+
+Offer Test
+
+Copy Test
+
+Landing Page Test
+
+Remarketing Test
+
+Scaling Test
+
+Retention Test
+
+=========================================================
+
+TEST BAŞLATMADAN ÖNCE
+
+□ Pixel çalışıyor mu?
+
+□ Purchase Event geliyor mu?
+
+□ Conversion API aktif mi?
+
+□ Domain doğrulandı mı?
+
+□ Landing Page çalışıyor mu?
+
+□ Ürün stokta mı?
+
+□ Ürün fiyatı doğru mu?
+
+□ Kampanya ismi doğru mu?
+
+□ UTM doğru mu?
+
+=========================================================
+
+TEST SÜRESİ
+
+İlk sonuçlara göre hemen karar verilmez.
+
+Test;
+
+yeterli gösterim,
+
+yeterli tıklama
+
+ve mümkünse anlamlı dönüşüm verisi oluşana kadar izlenmelidir.
+
+Learning Phase tamamlanmadan büyük değişikliklerden kaçınılmalıdır.
+
+=========================================================
+
+TESTİ DURDURMA KRİTERLERİ
+
+Test aşağıdaki durumlarda sonlandırılabilir;
+
+• Belirlenen maksimum test bütçesi tüketildiyse
+
+• Yeterli veri oluşmasına rağmen hedef KPI'lar yakalanamıyorsa
+
+• Reklam politikası nedeniyle yayınlanamıyorsa
+
+• Teknik hata düzeltilmesine rağmen performans oluşmuyorsa
+
+=========================================================
+
+KAZANAN REKLAM KRİTERLERİ
+
+Kazanan reklam;
+
+Tek bir metrikle belirlenmez.
+
+Birlikte değerlendirilir;
+
+• ROAS
+
+• CPA
+
+• CTR
+
+• CPC
+
+• Conversion Rate
+
+• Satın Alma Sayısı
+
+• Ortalama Sipariş Tutarı
+
+• Karlılık
+
+=========================================================
+
+AI KARAR KURALI
+
+MetaAgent;
+
+önce veri toplar.
+
+↓
+
+Sonra KPI analiz eder.
+
+↓
+
+Sonra kazananı belirler.
+
+↓
+
+Sonra neden kazandığını açıklar.
+
+↓
+
+Sonra yeni test önerileri üretir.
+
+=========================================================
+
+TEST SONRASI RAPOR
+
+Her test sonunda aşağıdaki rapor hazırlanacaktır.
+
+1. Test Amacı
+
+2. Test Süresi
+
+3. Test Edilen Değişken
+
+4. Sonuçlar
+
+5. Kazanan
+
+6. Kaybeden
+
+7. Öğrenilenler
+
+8. Sonraki Test
+
+=========================================================
+
+SIK YAPILAN HATALAR
+
+❌ Her gün kampanyayı düzenlemek
+
+❌ Aynı anda 4-5 değişken değiştirmek
+
+❌ Düşük bütçeyle kesin karar vermek
+
+❌ Tek metrikle reklamı kapatmak
+
+❌ Landing Page'i kontrol etmeden kreatifi suçlamak
+
+❌ Pixel doğrulaması yapmadan optimizasyon yapmak
+
+=========================================================
+
+OLIVOS AI KURALI
+
+Hiçbir test "başarısız" değildir.
+
+Her test;
+
+yeni bir veri,
+
+yeni bir öğrenme,
+
+ve sonraki optimizasyon için bilgi üretir.
+
+MetaAgent her testten sonra mutlaka:
+
+• Öğrenilenler
+
+• Bir sonraki test önerisi
+
+• Beklenen etki
+
+başlıklarını rapora eklemek zorundadır.
+
+=========================================================

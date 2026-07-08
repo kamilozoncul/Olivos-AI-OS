@@ -1,0 +1,400 @@
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-CORE-003
+
+Document Name:
+KPI Definitions
+
+Version:
+2.0
+
+Owner:
+Olivos AI Operating System
+
+Status:
+Production
+
+Category:
+Core
+
+Dependencies:
+01_AI_Principles.txt
+02_Decision_Framework.txt
+
+Used By:
+All AI Agents
+
+==================================================================================================================
+
+PURPOSE
+
+Bu belge Olivos AI Operating System içerisinde
+kullanılan tüm KPI tanımlarını standartlaştırır.
+
+Hiçbir AI ajanı KPI'ları farklı yorumlayamaz.
+
+=========================================================
+
+ALTIN KURAL
+
+KPI tek başına karar verdirmez.
+
+Her KPI;
+
+• Bağlam
+
+• İş hedefi
+
+• Önceki dönem
+
+• Diğer KPI'lar
+
+ile birlikte değerlendirilir.
+
+==================================================================================================================
+
+KPI PRIORITY
+
+P1
+
+Net Profit
+
+↓
+
+P2
+
+Contribution Margin
+
+↓
+
+P3
+
+ROAS
+
+↓
+
+P4
+
+CPA
+
+↓
+
+P5
+
+Conversion Rate
+
+↓
+
+P6
+
+Purchase
+
+↓
+
+P7
+
+AOV
+
+↓
+
+P8
+
+CTR
+
+↓
+
+P9
+
+CPM
+
+↓
+
+P10
+
+Frequency
+
+↓
+
+P11
+
+Reach
+
+↓
+
+P12
+
+Impressions
+
+==================================================================================================================
+
+KPI
+
+Return On Ad Spend
+
+Kısaltma
+
+ROAS
+
+Tanım
+
+Reklama harcanan her 1 TL'nin
+kaç TL gelir ürettiğini gösterir.
+
+Formül
+
+Revenue / Ad Spend
+
+Yorum
+
+Yüksek olması tercih edilir.
+
+Tek başına yeterli değildir.
+
+Risk
+
+Yüksek ROAS
+
+düşük hacim anlamına gelebilir.
+
+==================================================================================================================
+
+Cost Per Acquisition
+
+CPA
+
+Tanım
+
+Bir satın alma elde etmek için
+harcanan reklam maliyeti.
+
+Formül
+
+Ad Spend / Purchase
+
+Yorum
+
+Düşük olması tercih edilir.
+
+Tek başına yorumlanmaz.
+
+==================================================================================================================
+
+Click Through Rate
+
+CTR
+
+Tanım
+
+Reklamı görenlerin
+tıklama oranı.
+
+Formül
+
+Clicks / Impressions
+
+CTR
+
+Creative kalitesini gösterir.
+
+==================================================================================================================
+
+Cost Per Mille
+
+CPM
+
+Tanım
+
+1000 gösterim maliyeti.
+
+Yorum
+
+Audience rekabetini gösterir.
+
+==================================================================================================================
+
+Cost Per Click
+
+Tanım
+
+Bir tıklamanın maliyeti.
+
+Yüksek CPC
+
+Audience
+
+Creative
+
+veya
+
+rekabet
+
+kaynaklı olabilir.
+
+==================================================================================================================
+
+Conversion Rate
+
+Tanım
+
+Ziyaretçilerin
+
+satın almaya dönüşme oranı.
+
+Formül
+
+Purchase
+
+/
+
+Sessions
+
+==================================================================================================================
+
+Frequency
+
+Tanım
+
+Bir kişinin
+
+aynı reklamı
+
+ortalama kaç kez gördüğünü gösterir.
+
+Risk
+
+Yüksek olması
+
+Creative Fatigue
+
+oluşturabilir.
+
+==================================================================================================================
+
+Average Order Value
+
+Tanım
+
+Ortalama sipariş tutarı.
+
+Formül
+
+Revenue
+
+/
+
+Orders
+
+==================================================================================================================
+
+Marketing Efficiency Ratio
+
+MER
+
+Tanım
+
+Toplam gelir
+
+/
+
+Toplam pazarlama harcaması
+
+ROAS'tan daha üst seviyede
+
+iş kararları için kullanılır.
+
+==================================================================================================================
+
+Lifetime Value
+
+Tanım
+
+Bir müşterinin
+
+yaşam boyu oluşturduğu
+
+toplam gelir.
+
+AI
+
+müşteri edinme kararlarında
+
+LTV'yi dikkate almalıdır.
+
+==================================================================================================================
+
+AI
+
+hiçbir KPI'yı
+
+tek başına yorumlamaz.
+
+Örnek
+
+CTR yüksek
+
+↓
+
+ROAS düşük
+
+↓
+
+Landing Page kontrol edilir.
+
+------------------------------------------------
+
+ROAS düşük
+
+↓
+
+CPA normal
+
+↓
+
+Yeni veri beklenebilir.
+
+------------------------------------------------
+
+CPA yüksek
+
+↓
+
+CTR düşük
+
+↓
+
+Creative analiz edilir.
+
+==================================================================================================================
+
+AI önce şunları doğrular:
+
+□ Veri güncel mi?
+
+□ Pixel çalışıyor mu?
+
+□ Event doğru geliyor mu?
+
+□ GA4 ile Meta arasında büyük fark var mı?
+
+□ Para birimi doğru mu?
+
+□ Tarih aralığı doğru mu?
+
+==================================================================================================================
+
+Hiçbir KPI
+
+iş hedefinden bağımsız yorumlanamaz.
+
+Amaç
+
+yüksek ROAS değildir.
+
+Amaç
+
+maksimum kârdır.
+
+=========================================================

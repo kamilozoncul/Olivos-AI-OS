@@ -1,0 +1,68 @@
+# Olivos AI OS Development Rules
+
+## Rule 1
+
+Tamamlanan modül tekrar yazılmaz.
+
+Sadece yeni sürüm (v1.1, v1.2...) ile geliştirilir.
+
+--------------------------------------------
+
+## Rule 2
+
+Her yeni özellik mevcut sisteme uyumlu olmak zorundadır.
+
+--------------------------------------------
+
+## Rule 3
+
+Hiçbir Agent diğer Agent'ın görevini yapmaz.
+
+--------------------------------------------
+
+## Rule 4
+
+Yeni dosya açılmadan önce mevcut dosyalar kontrol edilir.
+
+--------------------------------------------
+
+## Rule 5
+
+Her değişiklik Changelog.md dosyasına işlenir.
+
+--------------------------------------------
+
+## Rule 6
+
+Karar verirken önce şirket kârlılığı düşünülür.
+
+ROAS tek başına karar kriteri değildir.
+
+--------------------------------------------
+
+## Rule 7
+
+Her özellik gerçek kullanım senaryosu ile test edilir.
+
+--------------------------------------------
+
+## Rule 8
+
+Sistem modüler kalacaktır.
+
+Yeni Agent eklemek eski sistemi bozmayacaktır.
+
+--------------------------------------------
+
+## Rule 9
+
+Teknik borç oluşturulmayacaktır.
+
+Geçici çözümler yasaktır.
+
+--------------------------------------------
+
+## Rule 10
+
+Amaç belge üretmek değil,
+çalışan AI Operating System üretmektir.

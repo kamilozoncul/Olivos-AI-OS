@@ -1,0 +1,47 @@
+# SOP-001 Günlük Meta Reklam Kontrolü
+
+## Amaç
+
+Meta reklam hesabının günlük performansını kontrol etmek.
+
+---
+
+## Ön Koşullar
+
+- Pixel çalışıyor.
+- Son 24 saat verisi mevcut.
+- Reklam hesabına erişim var.
+
+---
+
+## Adımlar
+
+1. Reklam harcamasını kontrol et.
+2. ROAS'ı kontrol et.
+3. CPA'yı kontrol et.
+4. CTR'yi kontrol et.
+5. CPM'i kontrol et.
+6. Frequency'yi kontrol et.
+7. Purchase sayısını kontrol et.
+8. Pixel hatalarını kontrol et.
+9. Learning Phase kampanyalarını kontrol et.
+10. Kritik kampanyaları işaretle.
+
+---
+
+## Beklenen Çıktılar
+
+- Günlük performans raporu
+- Risk listesi
+- Öncelikli aksiyonlar
+- Kampanya durumu
+
+---
+
+## Kontrol Listesi
+
+- [ ] Pixel çalışıyor
+- [ ] Purchase Event geliyor
+- [ ] ROAS normal
+- [ ] CPA hedef içinde
+- [ ] Kritik hata yok

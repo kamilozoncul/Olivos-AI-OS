@@ -1,0 +1,207 @@
+DOSYA ADI:
+Products.txt
+
+VERSİYON:
+1.0
+
+OLUŞTURMA TARİHİ:
+08.07.2026
+
+SON GÜNCELLEME:
+08.07.2026
+
+SORUMLU:
+Kamil Özöncül
+
+AI MODÜLLERİ:
+Meta Agent
+SEO Agent
+CEO Agent
+CRO Agent
+Blog Agent
+
+AÇIKLAMA:
+Bu dosya Olivos ürünlerinin ana bilgi kaynağıdır.
+# OLIVOS ÜRÜN ENVANTERİ
+
+Her ürün aşağıdaki standartta tanımlanacaktır.
+
+--------------------------------------------------------
+
+Ürün Adı:
+
+Kategori:
+
+Alt Kategori:
+
+SKU:
+
+Barkod:
+
+Satış Fiyatı:
+
+İndirimli Fiyat:
+
+KDV:
+
+Stok Durumu:
+
+Varyasyonlar:
+
+Renk:
+
+Koku:
+
+Boyut:
+
+Gramaj:
+
+Hacim:
+
+--------------------------------------------------------
+
+Ürün Özeti
+
+...
+
+--------------------------------------------------------
+
+Ürün Açıklaması
+
+...
+
+--------------------------------------------------------
+
+Temel Özellikler
+
+•
+
+•
+
+•
+
+•
+
+•
+
+--------------------------------------------------------
+
+Kullanım Alanı
+
+...
+
+--------------------------------------------------------
+
+Kimler İçin Uygundur
+
+...
+
+--------------------------------------------------------
+
+Kimler İçin Uygun Değildir
+
+...
+
+--------------------------------------------------------
+
+Ana İçerikler
+
+•
+
+•
+
+•
+
+•
+
+•
+
+--------------------------------------------------------
+
+Faydaları
+
+•
+
+•
+
+•
+
+•
+
+•
+
+--------------------------------------------------------
+
+Rakip Ürünler
+
+•
+
+•
+
+•
+
+--------------------------------------------------------
+
+Fark Yaratan Özellikler (USP)
+
+•
+
+•
+
+•
+
+--------------------------------------------------------
+
+Birlikte Satılabilecek Ürünler
+
+•
+
+•
+
+•
+
+--------------------------------------------------------
+
+En Çok Sorulan Sorular
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+--------------------------------------------------------
+
+SEO
+
+Odak Anahtar Kelime
+
+Meta Başlık
+
+Meta Açıklama
+
+Slug
+
+--------------------------------------------------------
+
+Reklam Açısı
+
+Problem
+
+Çözüm
+
+Hook
+
+CTA
+
+--------------------------------------------------------
+
+AI Notları
+
+Bu ürün için üretilecek tüm reklam, SEO, blog ve sosyal medya içerikleri bu bilgiler baz alınarak hazırlanacaktır.
+
+========================================================

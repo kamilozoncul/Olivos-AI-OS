@@ -1,0 +1,90 @@
+# Olivos Business Profile
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Company:
+Olivos
+
+Version:
+1.0
+
+Status:
+Production
+
+=========================================================
+
+BUSINESS MODEL
+
+E-Ticaret
+
+Platform
+
+IdeaSoft
+
+Marketplaces
+
+Trendyol
+Hepsiburada
+Amazon
+
+=========================================================
+
+PRIMARY KPI
+
+Target ROAS
+
+1.60
+
+Maximum CPA
+
+200 TL
+
+Average Profit Margin
+
+60%
+
+=========================================================
+
+TOP SELLING PRODUCTS
+
+1.
+Olivos Sıvı Sabun Sanat Koleksiyonu Deneme Seti
+5x500 ml
+
+2.
+Zephyr Breeze Hamam Kokulu Refill
+1500 ml
+
+3.
+5'li Sıvı Sabun Seti
+5x500 ml
+
+4.
+Zeyteen Elegance
+250 gr
+
+5.
+Hamam Kokulu Duş Jeli
+750 ml
+
+6.
+5'li Duş Jeli Seti
+5x750 ml
+
+=========================================================
+
+BUSINESS OBJECTIVES
+
+• Karlılığı artırmak
+
+• Reklam maliyetini düşürmek
+
+• ROAS ≥ 1.60
+
+• CPA ≤ 200 TL
+
+• Ölçeklenebilir kampanyalar oluşturmak
+
+=========================================================

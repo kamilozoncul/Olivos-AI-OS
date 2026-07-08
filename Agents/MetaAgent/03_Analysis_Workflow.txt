@@ -1,0 +1,410 @@
+# MetaAgent Analysis Workflow
+
+=========================================================
+DOCUMENT INFORMATION
+=========================================================
+
+Document ID:
+OAOS-META-003
+
+Document Name:
+Analysis Workflow
+
+Version:
+1.0
+
+Status:
+Production
+
+Category:
+Workflow
+
+Owner:
+Olivos AI Operating System
+
+Dependencies:
+
+- 01_SystemPrompt.md
+- 02_KPI_Rules.md
+
+=========================================================
+
+# PURPOSE
+
+Bu belge MetaAgent'in
+Meta Ads hesaplarını
+hangi sırayla analiz edeceğini tanımlar.
+
+Hiçbir adım atlanmaz.
+
+=========================================================
+
+# ANALYSIS FLOW
+
+Input
+
+↓
+
+Data Validation
+
+↓
+
+Campaign Analysis
+
+↓
+
+Ad Set Analysis
+
+↓
+
+Ad Analysis
+
+↓
+
+KPI Analysis
+
+↓
+
+Audience Analysis
+
+↓
+
+Creative Analysis
+
+↓
+
+Pixel Analysis
+
+↓
+
+Risk Assessment
+
+↓
+
+Decision Engine
+
+↓
+
+Executive Report
+
+==================================================================================================================
+STEP 1
+
+DATA VALIDATION
+
+=========================================================
+
+Kontrol Edilecekler
+
+□ Veri eksik mi?
+
+□ Tarih aralığı doğru mu?
+
+□ Para birimi doğru mu?
+
+□ Purchase verisi geliyor mu?
+
+□ Pixel aktif mi?
+
+□ Conversion API aktif mi?
+
+□ Attribution ayarı doğru mu?
+
+Eksik veri varsa
+
+AI bunu raporun başında belirtir.
+
+==================================================================================================================
+STEP 2
+
+CAMPAIGN ANALYSIS
+
+=========================================================
+
+Kontrol Edilecek KPI'lar
+
+- Spend
+- Revenue
+- ROAS
+- CPA
+- Purchase
+- CTR
+- CPM
+- CPC
+
+Her kampanya
+
+Kazanan
+
+Takip Edilecek
+
+Riskli
+
+Durdurulacak
+
+olarak sınıflandırılır.
+
+==================================================================================================================
+STEP 3
+
+AD SET ANALYSIS
+
+=========================================================
+
+Kontrol Edilecekler
+
+Audience
+
+Placement
+
+Budget
+
+Frequency
+
+Learning Phase
+
+Overlap
+
+Age
+
+Gender
+
+Location
+
+==================================================================================================================
+STEP 4
+
+AD ANALYSIS
+
+=========================================================
+
+Kontrol Edilecekler
+
+Creative
+
+Headline
+
+Primary Text
+
+CTA
+
+Video
+
+Image
+
+Hook
+
+CTR
+
+Thumb Stop Rate
+
+==================================================================================================================
+STEP 5
+
+KPI ANALYSIS
+
+=========================================================
+
+MetaAgent
+
+Aşağıdaki KPI'ları birlikte değerlendirir.
+
+ROAS
+
+CPA
+
+CTR
+
+CPM
+
+Frequency
+
+Purchase
+
+AOV
+
+Revenue
+
+MER
+
+==================================================================================================================
+STEP 6
+
+AUDIENCE ANALYSIS
+
+=========================================================
+
+İncelenecek Alanlar
+
+Audience Size
+
+Overlap
+
+Frequency
+
+Demographics
+
+Placement
+
+Performance
+
+Scaling Potential
+
+==================================================================================================================
+STEP 7
+
+CREATIVE ANALYSIS
+
+=========================================================
+
+Kontrol Edilecekler
+
+Creative Fatigue
+
+CTR Trend
+
+Frequency
+
+Engagement
+
+Comments
+
+Shares
+
+Video Watch Time
+
+Hook Strength
+
+==================================================================================================================
+STEP 8
+
+PIXEL ANALYSIS
+
+=========================================================
+
+Kontroller
+
+Purchase
+
+Add To Cart
+
+View Content
+
+Initiate Checkout
+
+Event Match Quality
+
+Deduplication
+
+Conversion API
+
+==================================================================================================================
+STEP 9
+
+RISK ANALYSIS
+
+=========================================================
+
+Her problem için
+
+Risk Türü
+
+Risk Seviyesi
+
+Etki
+
+Öncelik
+
+Çözüm
+
+Beklenen Sonuç
+
+oluşturulur.
+
+==================================================================================================================
+STEP 10
+
+DECISION ENGINE
+
+=========================================================
+
+Her kampanya için
+
+Scale
+
+Maintain
+
+Optimize
+
+Pause
+
+Stop
+
+kararlarından biri verilir.
+
+Kararın gerekçesi yazılır.
+
+==================================================================================================================
+STEP 11
+
+EXECUTIVE REPORT
+
+=========================================================
+
+Rapor sırası
+
+Executive Summary
+
+↓
+
+KPI Dashboard
+
+↓
+
+Problems
+
+↓
+
+Root Cause
+
+↓
+
+Risks
+
+↓
+
+Actions
+
+↓
+
+Expected Impact
+
+↓
+
+Management Summary
+
+==================================================================================================================
+GOLDEN RULE
+
+MetaAgent
+
+önce doğrular,
+
+sonra analiz eder,
+
+sonra karar verir.
+
+Hiçbir zaman
+
+analiz yapmadan
+
+öneri sunmaz.
+
+==================================================================================================================
+VERSION HISTORY
+
+v1.0
+
+İlk sürüm.
+
+=========================================================

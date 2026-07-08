@@ -1,0 +1,406 @@
+=========================================================
+CREATIVE RULES
+
+Meta Decision Engine
+
+Version 1.0
+
+=========================================================
+
+AMAÇ
+
+Bu belge MetaAgent'in reklam kreatiflerini
+analiz etmesini,
+puanlamasını,
+iyileştirmesini
+ve yeni kreatif fikirleri üretmesini sağlar.
+
+MetaAgent;
+
+• Video reklamları analiz eder
+
+• Görselleri analiz eder
+
+• Hook kalitesini ölçer
+
+• CTA kalitesini değerlendirir
+
+• Creative Fatigue tespit eder
+
+• Yeni kreatif önerileri üretir.
+
+=========================================================
+
+META GERÇEĞİ
+
+Meta'da en büyük performans farkını
+
+Audience değil
+
+Bütçe değil
+
+Pixel değil
+
+Creative oluşturur.
+
+=========================================================
+
+CREATIVE HİYERARŞİSİ
+
+1 Hook
+
+↓
+
+2 Problem
+
+↓
+
+3 Dikkat
+
+↓
+
+4 Merak
+
+↓
+
+5 Güven
+
+↓
+
+6 Çözüm
+
+↓
+
+7 Offer
+
+↓
+
+8 CTA
+
+=========================================================
+
+ALTIN KURAL
+
+İnsanlar ürün satın almaz.
+
+Sorunlarının çözümünü satın alırlar.
+
+Creative;
+
+ürünü değil,
+
+dönüşümü satmalıdır.
+
+==================================================================================================================
+
+HOOK RULES
+
+=========================================================
+
+İlk 3 saniye
+
+reklamın en önemli kısmıdır.
+
+Kullanıcı ilk 3 saniyede durmazsa
+
+reklam başarısızdır.
+
+=========================================================
+
+İyi Hook Özellikleri
+
+• Şaşırtıcı
+
+• Beklenmedik
+
+• Merak uyandıran
+
+• Duygusal
+
+• Problem odaklı
+
+• Sonuç odaklı
+
+=========================================================
+
+Hook Türleri
+
+Problem Hook
+
+Question Hook
+
+Statistic Hook
+
+Shock Hook
+
+Story Hook
+
+Before / After Hook
+
+Myth Breaking Hook
+
+Warning Hook
+
+Challenge Hook
+
+==================================================================================================================
+
+ATTENTION RULES
+
+=========================================================
+
+Meta'da
+
+ilk amaç
+
+satış değildir.
+
+İlk amaç
+
+scroll'u durdurmaktır.
+
+=========================================================
+
+Dikkat artıran öğeler
+
+İnsan yüzü
+
+El hareketi
+
+Yakın plan
+
+Beklenmedik sahne
+
+Hızlı geçiş
+
+Büyük yazılar
+
+İlk karede ürün
+
+==================================================================================================================
+
+PROBLEM ENGINEERING
+
+=========================================================
+
+Creative önce
+
+ürünü anlatmaz.
+
+Önce problemi gösterir.
+
+=========================================================
+
+Problem
+
+↓
+
+Rahatsızlık
+
+↓
+
+Empati
+
+↓
+
+Çözüm
+
+↓
+
+Kanıt
+
+↓
+
+Offer
+
+↓
+
+CTA
+
+==================================================================================================================
+
+TRUST BUILDING
+
+=========================================================
+
+Güven artıran unsurlar
+
+Gerçek müşteri
+
+Gerçek yorum
+
+UGC
+
+Önce / Sonra
+
+İstatistik
+
+Uzman görüşü
+
+Garanti
+
+Sertifika
+
+Sosyal kanıt
+
+==================================================================================================================
+
+CALL TO ACTION
+
+=========================================================
+
+CTA
+
+tek cümle olmalıdır.
+
+Karmaşık CTA kullanılmaz.
+
+Örnek
+
+"Hemen Sipariş Ver"
+
+"Şimdi İncele"
+
+"Fırsatı Kaçırma"
+
+==================================================================================================================
+
+CREATIVE FATIGUE
+
+=========================================================
+
+Belirtiler
+
+CTR düşüyor
+
+Frequency artıyor
+
+CPA yükseliyor
+
+ROAS düşüyor
+
+=========================================================
+
+AI KARARI
+
+Yeni kreatif üret.
+
+Hook değiştir.
+
+İlk sahneyi değiştir.
+
+Thumbnail değiştir.
+
+==================================================================================================================
+
+CREATIVE SCORE
+
+=========================================================
+
+MetaAgent
+
+her kreatifi puanlar.
+
+Hook
+
+20
+
+Problem
+
+15
+
+Story
+
+10
+
+Trust
+
+20
+
+Offer
+
+15
+
+CTA
+
+10
+
+Video Kalitesi
+
+10
+
+Marka Uyumu
+
+10
+
+Toplam
+
+100 Puan
+
+==================================================================================================================
+
+AI DECISION ENGINE
+
+=========================================================
+
+CTR düşük
+
+↓
+
+Hook analiz et.
+
+↓
+
+Hook iyiyse
+
+↓
+
+Audience analiz et.
+
+↓
+
+Audience iyiyse
+
+↓
+
+Landing Page analiz et.
+
+↓
+
+Landing Page iyiyse
+
+↓
+
+Offer analiz et.
+
+↓
+
+Yeni Creative üret.
+
+==================================================================================================================
+
+OLIVOS STANDARDI
+
+=========================================================
+
+Yeni ürünlerde
+
+minimum
+
+5 farklı Hook
+
+3 farklı Thumbnail
+
+2 farklı CTA
+
+3 farklı Primary Text
+
+hazırlanacaktır.
+
+MetaAgent;
+
+tek kreatifle
+
+kampanya açılmasını önermez.
+
+=========================================================
