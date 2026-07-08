@@ -1,0 +1,33 @@
+# Environment files
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# VS Code settings
+.vscode/
+
+# Node
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# AI / Data temporary files
+temp/
+cache/
+exports/
