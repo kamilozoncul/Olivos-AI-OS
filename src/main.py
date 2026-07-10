@@ -1,4 +1,3 @@
-from registry import AgentRegistry
 from router import Router
 from orchestrator import Orchestrator
 
@@ -13,9 +12,7 @@ def main():
 
     print("\nWorkflow:", workflow)
 
-    registry = AgentRegistry()
-
-    orchestrator = Orchestrator(registry)
+    orchestrator = Orchestrator()
 
     results = orchestrator.execute(workflow, task)
 

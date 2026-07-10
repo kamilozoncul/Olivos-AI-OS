@@ -6,10 +6,12 @@ class ReportingAgent(BaseAgent):
     def __init__(self):
         super().__init__("ReportingAgent")
 
-    def run(self, results):
+    def run(self, task, context):
+
         self.log("Preparing final report...")
 
         return {
             "agent": self.name,
-            "summary": results
+            "summary": task,
+            "workflow_results": context
         }
